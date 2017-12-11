@@ -1,0 +1,8 @@
+Z:\Spike\Eclipse Projects\USBBackup\USBBackup\bin\Debug
+Z:\Spike\Eclipse Projects\USBBackup\USBBackup\bin\Debug
+Cannot find the file specified: Z:\Spike\Eclipse Projects\USBBackup\USBBackup\bin\Debug\USBBackup.pdb Exception message: Index was outside the bounds of the array.
+Cannot find the file specified: Z:\Spike\Eclipse Projects\USBBackup\USBBackup\bin\Debug\USBBackup.exe.config Exception message: Index was outside the bounds of the array.
+Cannot find the file specified: Z:\Spike\Eclipse Projects\USBBackup\USBBackup\bin\Debug\USBBackup.exe Exception message: Index was outside the bounds of the array.
+Cannot find the file specified: Z:\Spike\Eclipse Projects\USBBackup\USBBackup\bin\Debug\LastLog.txt Exception message: Index was outside the bounds of the array.
+Device Root Is: E:\
+TestProfile | 

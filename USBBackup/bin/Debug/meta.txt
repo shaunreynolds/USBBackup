@@ -1,0 +1,4 @@
+runAtStartup=False
+startMinimized=False
+minsToWait=10
+showProgress=True

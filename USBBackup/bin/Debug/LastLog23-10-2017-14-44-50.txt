@@ -1,0 +1,176 @@
+Z:\Spike\Eclipse Projects\USBBackup\USBBackup\bin\Debug
+Z:\Spike\Eclipse Projects\USBBackup\USBBackup\bin\Debug
+Cannot find the file specified: Z:\Spike\Eclipse Projects\USBBackup\USBBackup\bin\Debug\USBBackup.pdb Exception message: Index was outside the bounds of the array.
+Cannot find the file specified: Z:\Spike\Eclipse Projects\USBBackup\USBBackup\bin\Debug\USBBackup.exe.config Exception message: Index was outside the bounds of the array.
+Cannot find the file specified: Z:\Spike\Eclipse Projects\USBBackup\USBBackup\bin\Debug\USBBackup.exe Exception message: Index was outside the bounds of the array.
+Cannot find the file specified: Z:\Spike\Eclipse Projects\USBBackup\USBBackup\bin\Debug\LastLog23-10-2017-14-40-55.txt Exception message: Index was outside the bounds of the array.
+Cannot find the file specified: Z:\Spike\Eclipse Projects\USBBackup\USBBackup\bin\Debug\LastLog.txt Exception message: Index was outside the bounds of the array.
+Cannot find the file specified: Z:\Spike\Eclipse Projects\USBBackup\USBBackup\bin\Debug\LastLog23-10-2017-14-39-34.txt Exception message: Index was outside the bounds of the array.
+Device Root Is: E:\
+TestProfile | 
+Scanning for USB Drives...
+There are this many USBProfiles available: 1 It should be 1!
+DeviceID is: 17997AC2
+Profile Device ID: 17997AC2
+Found a match, and it requires a backup. Backing up
+Copied File: BscCompSci\Year 1\Intro to Programming\Assignment\burn\PumpApp\PumpApp\bin\Debug\h To: C:\Users\Shaun\Desktop\test\\BscCompSci\Year 1\Intro to Programming\Assignment\burn\PumpApp\PumpApp\bin\Debug\h
+Copied File: BscCompSci\Year 1\Intro to Programming\Assignment\PumpApp\PumpApp\bin\Debug\h To: C:\Users\Shaun\Desktop\test\\BscCompSci\Year 1\Intro to Programming\Assignment\PumpApp\PumpApp\bin\Debug\h
+Copied File: BscCompSci\Year2\SoftwareEngineering\ActualProgram\.git\config To: C:\Users\Shaun\Desktop\test\\BscCompSci\Year2\SoftwareEngineering\ActualProgram\.git\config
+Copied File: BscCompSci\Year2\SoftwareEngineering\ActualProgram\.git\description To: C:\Users\Shaun\Desktop\test\\BscCompSci\Year2\SoftwareEngineering\ActualProgram\.git\description
+Copied File: BscCompSci\Year2\SoftwareEngineering\ActualProgram\.git\HEAD To: C:\Users\Shaun\Desktop\test\\BscCompSci\Year2\SoftwareEngineering\ActualProgram\.git\HEAD
+Copied File: BscCompSci\Year2\SoftwareEngineering\ActualProgram\.git\index To: C:\Users\Shaun\Desktop\test\\BscCompSci\Year2\SoftwareEngineering\ActualProgram\.git\index
+Copied File: BscCompSci\Year2\SoftwareEngineering\ActualProgram\.git\packed-refs To: C:\Users\Shaun\Desktop\test\\BscCompSci\Year2\SoftwareEngineering\ActualProgram\.git\packed-refs
+Copied File: BscCompSci\Year2\SoftwareEngineering\ActualProgram\.git\logs\HEAD To: C:\Users\Shaun\Desktop\test\\BscCompSci\Year2\SoftwareEngineering\ActualProgram\.git\logs\HEAD
+Copied File: BscCompSci\Year2\SoftwareEngineering\AssignmentSolution\.git\COMMIT_EDITMSG To: C:\Users\Shaun\Desktop\test\\BscCompSci\Year2\SoftwareEngineering\AssignmentSolution\.git\COMMIT_EDITMSG
+Copied File: BscCompSci\Year2\SoftwareEngineering\AssignmentSolution\.git\config To: C:\Users\Shaun\Desktop\test\\BscCompSci\Year2\SoftwareEngineering\AssignmentSolution\.git\config
+Copied File: BscCompSci\Year2\SoftwareEngineering\AssignmentSolution\.git\description To: C:\Users\Shaun\Desktop\test\\BscCompSci\Year2\SoftwareEngineering\AssignmentSolution\.git\description
+Copied File: BscCompSci\Year2\SoftwareEngineering\AssignmentSolution\.git\FETCH_HEAD To: C:\Users\Shaun\Desktop\test\\BscCompSci\Year2\SoftwareEngineering\AssignmentSolution\.git\FETCH_HEAD
+Copied File: BscCompSci\Year2\SoftwareEngineering\AssignmentSolution\.git\HEAD To: C:\Users\Shaun\Desktop\test\\BscCompSci\Year2\SoftwareEngineering\AssignmentSolution\.git\HEAD
+Copied File: BscCompSci\Year2\SoftwareEngineering\AssignmentSolution\.git\index To: C:\Users\Shaun\Desktop\test\\BscCompSci\Year2\SoftwareEngineering\AssignmentSolution\.git\index
+Copied File: BscCompSci\Year2\SoftwareEngineering\AssignmentSolution\.git\ORIG_HEAD To: C:\Users\Shaun\Desktop\test\\BscCompSci\Year2\SoftwareEngineering\AssignmentSolution\.git\ORIG_HEAD
+Copied File: BscCompSci\Year2\SoftwareEngineering\AssignmentSolution\.git\packed-refs To: C:\Users\Shaun\Desktop\test\\BscCompSci\Year2\SoftwareEngineering\AssignmentSolution\.git\packed-refs
+Copied File: BscCompSci\Year2\SoftwareEngineering\AssignmentSolution\.git\logs\HEAD To: C:\Users\Shaun\Desktop\test\\BscCompSci\Year2\SoftwareEngineering\AssignmentSolution\.git\logs\HEAD
+Copied File: BscCompSci\Year2\SoftwareEngineering\DesignPatterns\Decorator\.git\COMMIT_EDITMSG To: C:\Users\Shaun\Desktop\test\\BscCompSci\Year2\SoftwareEngineering\DesignPatterns\Decorator\.git\COMMIT_EDITMSG
+Copied File: BscCompSci\Year2\SoftwareEngineering\DesignPatterns\Decorator\.git\config To: C:\Users\Shaun\Desktop\test\\BscCompSci\Year2\SoftwareEngineering\DesignPatterns\Decorator\.git\config
+Copied File: BscCompSci\Year2\SoftwareEngineering\DesignPatterns\Decorator\.git\description To: C:\Users\Shaun\Desktop\test\\BscCompSci\Year2\SoftwareEngineering\DesignPatterns\Decorator\.git\description
+Copied File: BscCompSci\Year2\SoftwareEngineering\DesignPatterns\Decorator\.git\HEAD To: C:\Users\Shaun\Desktop\test\\BscCompSci\Year2\SoftwareEngineering\DesignPatterns\Decorator\.git\HEAD
+Copied File: BscCompSci\Year2\SoftwareEngineering\DesignPatterns\Decorator\.git\index To: C:\Users\Shaun\Desktop\test\\BscCompSci\Year2\SoftwareEngineering\DesignPatterns\Decorator\.git\index
+Copied File: BscCompSci\Year2\SoftwareEngineering\DesignPatterns\Decorator\.git\logs\HEAD To: C:\Users\Shaun\Desktop\test\\BscCompSci\Year2\SoftwareEngineering\DesignPatterns\Decorator\.git\logs\HEAD
+Copied File: BscCompSci\Year2\SoftwareEngineering\DesignPatterns\FactoryPattern\.git\COMMIT_EDITMSG To: C:\Users\Shaun\Desktop\test\\BscCompSci\Year2\SoftwareEngineering\DesignPatterns\FactoryPattern\.git\COMMIT_EDITMSG
+Copied File: BscCompSci\Year2\SoftwareEngineering\DesignPatterns\FactoryPattern\.git\config To: C:\Users\Shaun\Desktop\test\\BscCompSci\Year2\SoftwareEngineering\DesignPatterns\FactoryPattern\.git\config
+Copied File: BscCompSci\Year2\SoftwareEngineering\DesignPatterns\FactoryPattern\.git\description To: C:\Users\Shaun\Desktop\test\\BscCompSci\Year2\SoftwareEngineering\DesignPatterns\FactoryPattern\.git\description
+Copied File: BscCompSci\Year2\SoftwareEngineering\DesignPatterns\FactoryPattern\.git\FETCH_HEAD To: C:\Users\Shaun\Desktop\test\\BscCompSci\Year2\SoftwareEngineering\DesignPatterns\FactoryPattern\.git\FETCH_HEAD
+Copied File: BscCompSci\Year2\SoftwareEngineering\DesignPatterns\FactoryPattern\.git\HEAD To: C:\Users\Shaun\Desktop\test\\BscCompSci\Year2\SoftwareEngineering\DesignPatterns\FactoryPattern\.git\HEAD
+Copied File: BscCompSci\Year2\SoftwareEngineering\DesignPatterns\FactoryPattern\.git\index To: C:\Users\Shaun\Desktop\test\\BscCompSci\Year2\SoftwareEngineering\DesignPatterns\FactoryPattern\.git\index
+Copied File: BscCompSci\Year2\SoftwareEngineering\DesignPatterns\FactoryPattern\.git\logs\HEAD To: C:\Users\Shaun\Desktop\test\\BscCompSci\Year2\SoftwareEngineering\DesignPatterns\FactoryPattern\.git\logs\HEAD
+Copied File: BscCompSci\Year2\SoftwareEngineering\DesignPatterns\ObserverForm\.git\COMMIT_EDITMSG To: C:\Users\Shaun\Desktop\test\\BscCompSci\Year2\SoftwareEngineering\DesignPatterns\ObserverForm\.git\COMMIT_EDITMSG
+Copied File: BscCompSci\Year2\SoftwareEngineering\DesignPatterns\ObserverForm\.git\config To: C:\Users\Shaun\Desktop\test\\BscCompSci\Year2\SoftwareEngineering\DesignPatterns\ObserverForm\.git\config
+Copied File: BscCompSci\Year2\SoftwareEngineering\DesignPatterns\ObserverForm\.git\description To: C:\Users\Shaun\Desktop\test\\BscCompSci\Year2\SoftwareEngineering\DesignPatterns\ObserverForm\.git\description
+Copied File: BscCompSci\Year2\SoftwareEngineering\DesignPatterns\ObserverForm\.git\HEAD To: C:\Users\Shaun\Desktop\test\\BscCompSci\Year2\SoftwareEngineering\DesignPatterns\ObserverForm\.git\HEAD
+Copied File: BscCompSci\Year2\SoftwareEngineering\DesignPatterns\ObserverForm\.git\index To: C:\Users\Shaun\Desktop\test\\BscCompSci\Year2\SoftwareEngineering\DesignPatterns\ObserverForm\.git\index
+Copied File: BscCompSci\Year2\SoftwareEngineering\DesignPatterns\ObserverForm\.git\logs\HEAD To: C:\Users\Shaun\Desktop\test\\BscCompSci\Year2\SoftwareEngineering\DesignPatterns\ObserverForm\.git\logs\HEAD
+Copied File: BscCompSci\Year2\SoftwareEngineering\Mockup2\.git\COMMIT_EDITMSG To: C:\Users\Shaun\Desktop\test\\BscCompSci\Year2\SoftwareEngineering\Mockup2\.git\COMMIT_EDITMSG
+Copied File: BscCompSci\Year2\SoftwareEngineering\Mockup2\.git\config To: C:\Users\Shaun\Desktop\test\\BscCompSci\Year2\SoftwareEngineering\Mockup2\.git\config
+Copied File: BscCompSci\Year2\SoftwareEngineering\Mockup2\.git\description To: C:\Users\Shaun\Desktop\test\\BscCompSci\Year2\SoftwareEngineering\Mockup2\.git\description
+Copied File: BscCompSci\Year2\SoftwareEngineering\Mockup2\.git\FETCH_HEAD To: C:\Users\Shaun\Desktop\test\\BscCompSci\Year2\SoftwareEngineering\Mockup2\.git\FETCH_HEAD
+Copied File: BscCompSci\Year2\SoftwareEngineering\Mockup2\.git\HEAD To: C:\Users\Shaun\Desktop\test\\BscCompSci\Year2\SoftwareEngineering\Mockup2\.git\HEAD
+Copied File: BscCompSci\Year2\SoftwareEngineering\Mockup2\.git\index To: C:\Users\Shaun\Desktop\test\\BscCompSci\Year2\SoftwareEngineering\Mockup2\.git\index
+Copied File: BscCompSci\Year2\SoftwareEngineering\Mockup2\.git\logs\HEAD To: C:\Users\Shaun\Desktop\test\\BscCompSci\Year2\SoftwareEngineering\Mockup2\.git\logs\HEAD
+Copied File: BscCompSci\Year2\SoftwareEngineering\MockupDesign\.git\COMMIT_EDITMSG To: C:\Users\Shaun\Desktop\test\\BscCompSci\Year2\SoftwareEngineering\MockupDesign\.git\COMMIT_EDITMSG
+Copied File: BscCompSci\Year2\SoftwareEngineering\MockupDesign\.git\config To: C:\Users\Shaun\Desktop\test\\BscCompSci\Year2\SoftwareEngineering\MockupDesign\.git\config
+Copied File: BscCompSci\Year2\SoftwareEngineering\MockupDesign\.git\description To: C:\Users\Shaun\Desktop\test\\BscCompSci\Year2\SoftwareEngineering\MockupDesign\.git\description
+Copied File: BscCompSci\Year2\SoftwareEngineering\MockupDesign\.git\HEAD To: C:\Users\Shaun\Desktop\test\\BscCompSci\Year2\SoftwareEngineering\MockupDesign\.git\HEAD
+Copied File: BscCompSci\Year2\SoftwareEngineering\MockupDesign\.git\index To: C:\Users\Shaun\Desktop\test\\BscCompSci\Year2\SoftwareEngineering\MockupDesign\.git\index
+Copied File: BscCompSci\Year2\SoftwareEngineering\MockupDesign\.git\logs\HEAD To: C:\Users\Shaun\Desktop\test\\BscCompSci\Year2\SoftwareEngineering\MockupDesign\.git\logs\HEAD
+Copied File: Microsoft VS Code\resources\app\extensions\emmet\node_modules\@emmetio\css-parser\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\extensions\emmet\node_modules\@emmetio\css-parser\LICENSE
+Copied File: Microsoft VS Code\resources\app\extensions\emmet\node_modules\@emmetio\extract-abbreviation\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\extensions\emmet\node_modules\@emmetio\extract-abbreviation\LICENSE
+Copied File: Microsoft VS Code\resources\app\extensions\emmet\node_modules\@emmetio\html-matcher\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\extensions\emmet\node_modules\@emmetio\html-matcher\LICENSE
+Copied File: Microsoft VS Code\resources\app\extensions\emmet\node_modules\@emmetio\math-expression\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\extensions\emmet\node_modules\@emmetio\math-expression\LICENSE
+Copied File: Microsoft VS Code\resources\app\extensions\emmet\node_modules\@emmetio\stream-reader\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\extensions\emmet\node_modules\@emmetio\stream-reader\LICENSE
+Copied File: Microsoft VS Code\resources\app\extensions\emmet\node_modules\@emmetio\stream-reader-utils\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\extensions\emmet\node_modules\@emmetio\stream-reader-utils\LICENSE
+Copied File: Microsoft VS Code\resources\app\extensions\emmet\node_modules\image-size\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\extensions\emmet\node_modules\image-size\LICENSE
+Copied File: Microsoft VS Code\resources\app\extensions\emmet\node_modules\vscode-emmet-helper\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\extensions\emmet\node_modules\vscode-emmet-helper\LICENSE
+Copied File: Microsoft VS Code\resources\app\extensions\extension-editing\node_modules\argparse\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\extensions\extension-editing\node_modules\argparse\LICENSE
+Copied File: Microsoft VS Code\resources\app\extensions\extension-editing\node_modules\entities\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\extensions\extension-editing\node_modules\entities\LICENSE
+Copied File: Microsoft VS Code\resources\app\extensions\extension-editing\node_modules\linkify-it\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\extensions\extension-editing\node_modules\linkify-it\LICENSE
+Copied File: Microsoft VS Code\resources\app\extensions\extension-editing\node_modules\markdown-it\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\extensions\extension-editing\node_modules\markdown-it\LICENSE
+Copied File: Microsoft VS Code\resources\app\extensions\extension-editing\node_modules\parse5\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\extensions\extension-editing\node_modules\parse5\LICENSE
+Copied File: Microsoft VS Code\resources\app\extensions\extension-editing\node_modules\sprintf-js\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\extensions\extension-editing\node_modules\sprintf-js\LICENSE
+Copied File: Microsoft VS Code\resources\app\extensions\git\node_modules\iconv-lite\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\extensions\git\node_modules\iconv-lite\LICENSE
+Copied File: Microsoft VS Code\resources\app\extensions\git\node_modules\vscode-extension-telemetry\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\extensions\git\node_modules\vscode-extension-telemetry\LICENSE
+Copied File: Microsoft VS Code\resources\app\extensions\html\node_modules\vscode-extension-telemetry\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\extensions\html\node_modules\vscode-extension-telemetry\LICENSE
+Copied File: Microsoft VS Code\resources\app\extensions\json\node_modules\vscode-extension-telemetry\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\extensions\json\node_modules\vscode-extension-telemetry\LICENSE
+Copied File: Microsoft VS Code\resources\app\extensions\json\server\node_modules\debug\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\extensions\json\server\node_modules\debug\LICENSE
+Copied File: Microsoft VS Code\resources\app\extensions\json\server\node_modules\debug\Makefile To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\extensions\json\server\node_modules\debug\Makefile
+Copied File: Microsoft VS Code\resources\app\extensions\markdown\node_modules\argparse\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\extensions\markdown\node_modules\argparse\LICENSE
+Copied File: Microsoft VS Code\resources\app\extensions\markdown\node_modules\entities\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\extensions\markdown\node_modules\entities\LICENSE
+Copied File: Microsoft VS Code\resources\app\extensions\markdown\node_modules\highlight.js\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\extensions\markdown\node_modules\highlight.js\LICENSE
+Copied File: Microsoft VS Code\resources\app\extensions\markdown\node_modules\linkify-it\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\extensions\markdown\node_modules\linkify-it\LICENSE
+Copied File: Microsoft VS Code\resources\app\extensions\markdown\node_modules\markdown-it\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\extensions\markdown\node_modules\markdown-it\LICENSE
+Copied File: Microsoft VS Code\resources\app\extensions\markdown\node_modules\sprintf-js\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\extensions\markdown\node_modules\sprintf-js\LICENSE
+Copied File: Microsoft VS Code\resources\app\extensions\markdown\node_modules\vscode-extension-telemetry\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\extensions\markdown\node_modules\vscode-extension-telemetry\LICENSE
+Copied File: Microsoft VS Code\resources\app\extensions\merge-conflict\node_modules\vscode-extension-telemetry\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\extensions\merge-conflict\node_modules\vscode-extension-telemetry\LICENSE
+Copied File: Microsoft VS Code\resources\app\extensions\ms-vscode.node-debug\node_modules\concat-map\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\extensions\ms-vscode.node-debug\node_modules\concat-map\LICENSE
+Copied File: Microsoft VS Code\resources\app\extensions\ms-vscode.node-debug\node_modules\source-map\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\extensions\ms-vscode.node-debug\node_modules\source-map\LICENSE
+Copied File: Microsoft VS Code\resources\app\extensions\ms-vscode.node-debug2\node_modules\concat-map\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\extensions\ms-vscode.node-debug2\node_modules\concat-map\LICENSE
+Copied File: Microsoft VS Code\resources\app\extensions\ms-vscode.node-debug2\node_modules\debug\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\extensions\ms-vscode.node-debug2\node_modules\debug\LICENSE
+Copied File: Microsoft VS Code\resources\app\extensions\ms-vscode.node-debug2\node_modules\debug\Makefile To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\extensions\ms-vscode.node-debug2\node_modules\debug\Makefile
+Copied File: Microsoft VS Code\resources\app\extensions\ms-vscode.node-debug2\node_modules\options\Makefile To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\extensions\ms-vscode.node-debug2\node_modules\options\Makefile
+Copied File: Microsoft VS Code\resources\app\extensions\ms-vscode.node-debug2\node_modules\source-map\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\extensions\ms-vscode.node-debug2\node_modules\source-map\LICENSE
+Copied File: Microsoft VS Code\resources\app\extensions\ms-vscode.node-debug2\node_modules\ws\Makefile To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\extensions\ms-vscode.node-debug2\node_modules\ws\Makefile
+Copied File: Microsoft VS Code\resources\app\extensions\typescript\node_modules\semver\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\extensions\typescript\node_modules\semver\LICENSE
+Copied File: Microsoft VS Code\resources\app\extensions\typescript\node_modules\semver\Makefile To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\extensions\typescript\node_modules\semver\Makefile
+Copied File: Microsoft VS Code\resources\app\extensions\typescript\node_modules\vscode-extension-telemetry\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\extensions\typescript\node_modules\vscode-extension-telemetry\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\concat-map\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\concat-map\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\core-util-is\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\core-util-is\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\iconv-lite\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\iconv-lite\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\jschardet\CONTRIBUTORS To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\jschardet\CONTRIBUTORS
+Copied File: Microsoft VS Code\resources\app\node_modules\micromatch\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\micromatch\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\minimist\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\minimist\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\native-watchdog\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\native-watchdog\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\node-pty\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\node-pty\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\node-pty\deps\winpty\configure To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\node-pty\deps\winpty\configure
+Copied File: Microsoft VS Code\resources\app\node_modules\node-pty\deps\winpty\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\node-pty\deps\winpty\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\node-pty\deps\winpty\Makefile To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\node-pty\deps\winpty\Makefile
+Copied File: Microsoft VS Code\resources\app\node_modules\nsfw\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\nsfw\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\nsfw\node_modules\concat-map\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\nsfw\node_modules\concat-map\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\nsfw\node_modules\fs-extra\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\nsfw\node_modules\fs-extra\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\nsfw\node_modules\klaw\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\nsfw\node_modules\klaw\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\nsfw\node_modules\nodegit-promise\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\nsfw\node_modules\nodegit-promise\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\nsfw\node_modules\promisify-node\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\nsfw\node_modules\promisify-node\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\readable-stream\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\readable-stream\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\readdirp\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\readdirp\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\semver\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\semver\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\semver\Makefile To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\semver\Makefile
+Copied File: Microsoft VS Code\resources\app\node_modules\v8-profiler\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\v8-profiler\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\ajv\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\ajv\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\asn1\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\asn1\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\asynckit\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\asynckit\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\boom\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\boom\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\colors\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\colors\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\combined-stream\License To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\combined-stream\License
+Copied File: Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\concat-map\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\concat-map\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\core-util-is\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\core-util-is\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\cryptiles\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\cryptiles\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\delayed-stream\License To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\delayed-stream\License
+Copied File: Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\delayed-stream\Makefile To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\delayed-stream\Makefile
+Copied File: Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\ecc-jsbn\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\ecc-jsbn\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\extsprintf\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\extsprintf\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\extsprintf\Makefile To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\extsprintf\Makefile
+Copied File: Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\form-data\License To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\form-data\License
+Copied File: Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\getpass\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\getpass\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\github-releases\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\github-releases\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\har-schema\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\har-schema\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\har-validator\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\har-validator\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\hawk\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\hawk\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\hoek\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\hoek\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\http-signature\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\http-signature\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\json-schema\draft-03\hyper-schema To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\json-schema\draft-03\hyper-schema
+Copied File: Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\json-schema\draft-03\json-ref To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\json-schema\draft-03\json-ref
+Copied File: Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\json-schema\draft-03\links To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\json-schema\draft-03\links
+Copied File: Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\json-schema\draft-03\schema To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\json-schema\draft-03\schema
+Copied File: Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\json-stable-stringify\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\json-stable-stringify\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\jsprim\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\jsprim\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\minimist\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\minimist\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\mkdirp\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\mkdirp\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\optimist\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\optimist\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\performance-now\Makefile To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\performance-now\Makefile
+Copied File: Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\prettyjson\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\prettyjson\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\progress\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\progress\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\progress\Makefile To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\progress\Makefile
+Copied File: Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\qs\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\qs\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\request\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\request\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\sntp\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\sntp\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\sntp\Makefile To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\sntp\Makefile
+Copied File: Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\sshpk\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\sshpk\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\tough-cookie\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\tough-cookie\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\uuid\AUTHORS To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\uuid\AUTHORS
+Copied File: Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\verror\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\verror\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\wordwrap\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\vscode-ripgrep\node_modules\wordwrap\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\windows-process-tree\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\windows-process-tree\LICENSE
+Copied File: Microsoft VS Code\resources\app\node_modules\xterm\LICENSE To: C:\Users\Shaun\Desktop\test\\Microsoft VS Code\resources\app\node_modules\xterm\LICENSE
+System.ArgumentNullException: Value cannot be null.
+Parameter name: path
+   at System.IO.Directory.GetFiles(String path)
+   at USBBackup.USBListener.Copy(String destinationRoot, String source, HashSet`1 ignoredFolders, HashSet`1 ignoredExtensions) in Z:\Spike\Eclipse Projects\USBBackup\USBBackup\USBListener.cs:line 101

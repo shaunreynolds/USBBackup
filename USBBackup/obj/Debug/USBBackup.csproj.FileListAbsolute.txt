@@ -1,0 +1,15 @@
+Z:\Spike\Eclipse Projects\USBBackup\USBBackup\bin\Debug\USBBackup.exe.config
+Z:\Spike\Eclipse Projects\USBBackup\USBBackup\bin\Debug\USBBackup.exe
+Z:\Spike\Eclipse Projects\USBBackup\USBBackup\bin\Debug\USBBackup.pdb
+Z:\Spike\Eclipse Projects\USBBackup\USBBackup\obj\Debug\USBBackup.csproj.CoreCompileInputs.cache
+Z:\Spike\Eclipse Projects\USBBackup\USBBackup\obj\Debug\USBBackup.exe
+Z:\Spike\Eclipse Projects\USBBackup\USBBackup\obj\Debug\USBBackup.pdb
+Z:\Spike\Eclipse Projects\USBBackup\USBBackup\obj\Debug\USBBackup.CreateProfile.resources
+Z:\Spike\Eclipse Projects\USBBackup\USBBackup\obj\Debug\USBBackup.MainWindow.resources
+Z:\Spike\Eclipse Projects\USBBackup\USBBackup\obj\Debug\USBBackup.csproj.GenerateResource.Cache
+Z:\Spike\Eclipse Projects\USBBackup\USBBackup\bin\Debug\USBBackup.exe.manifest
+Z:\Spike\Eclipse Projects\USBBackup\USBBackup\bin\Debug\USBBackup.application
+Z:\Spike\Eclipse Projects\USBBackup\USBBackup\obj\Debug\USBBackup.exe.manifest
+Z:\Spike\Eclipse Projects\USBBackup\USBBackup\obj\Debug\USBBackup.application
+Z:\Spike\Eclipse Projects\USBBackup\USBBackup\obj\Debug\USBBackup.csprojResolveAssemblyReference.cache
+Z:\Spike\Eclipse Projects\USBBackup\USBBackup\obj\Debug\USBBackup.ProgressForm.resources

@@ -1,0 +1,6 @@
+Z:\Spike\Eclipse Projects\USBBackup\USBBackup\bin\Debug
+Z:\Spike\Eclipse Projects\USBBackup\USBBackup\bin\Debug
+
+SettingsFile trying to save file as: Z:\Spike\Eclipse Projects\USBBackup\USBBackup\bin\Debug\meta.txt
+SettingsFile trying to save file as: Z:\Spike\Eclipse Projects\USBBackup\USBBackup\bin\Debug\meta.txt
+We should be hidden now!

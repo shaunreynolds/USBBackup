@@ -1,0 +1,26 @@
+Z:\Spike\Eclipse Projects\USBBackup\USBBackup\bin\Debug
+Z:\Spike\Eclipse Projects\USBBackup\USBBackup\bin\Debug
+Found file that is not a profile: Z:\Spike\Eclipse Projects\USBBackup\USBBackup\bin\Debug\LastLog23-10-2017-16-42-23.txt
+Found file that is not a profile: Z:\Spike\Eclipse Projects\USBBackup\USBBackup\bin\Debug\LastLog23-10-2017-16-49-47.txt
+Found file that is not a profile: Z:\Spike\Eclipse Projects\USBBackup\USBBackup\bin\Debug\LastLog27-10-2017-17-17-46.txt
+Found file that is not a profile: Z:\Spike\Eclipse Projects\USBBackup\USBBackup\bin\Debug\USBBackup.exe.manifest
+Found file that is not a profile: Z:\Spike\Eclipse Projects\USBBackup\USBBackup\bin\Debug\LastLog29-10-2017-12-37-47.txt
+Found file that is not a profile: Z:\Spike\Eclipse Projects\USBBackup\USBBackup\bin\Debug\LastLog27-10-2017-17-15-34.txt
+Found file that is not a profile: Z:\Spike\Eclipse Projects\USBBackup\USBBackup\bin\Debug\USBBackup.pdb
+Found file that is not a profile: Z:\Spike\Eclipse Projects\USBBackup\USBBackup\bin\Debug\USBBackup.exe.config
+Found file that is not a profile: Z:\Spike\Eclipse Projects\USBBackup\USBBackup\bin\Debug\USBBackup.exe
+Found file that is not a profile: Z:\Spike\Eclipse Projects\USBBackup\USBBackup\bin\Debug\LastLog23-10-2017-14-40-55.txt
+Found file that is not a profile: Z:\Spike\Eclipse Projects\USBBackup\USBBackup\bin\Debug\LastLog23-10-2017-17-09-12.txt
+Found file that is not a profile: Z:\Spike\Eclipse Projects\USBBackup\USBBackup\bin\Debug\LastLog23-10-2017-14-44-50.txt
+Found file that is not a profile: Z:\Spike\Eclipse Projects\USBBackup\USBBackup\bin\Debug\LastLog23-10-2017-17-07-37.txt
+Found file that is not a profile: Z:\Spike\Eclipse Projects\USBBackup\USBBackup\bin\Debug\LastLog23-10-2017-17-00-51.txt
+Found file that is not a profile: Z:\Spike\Eclipse Projects\USBBackup\USBBackup\bin\Debug\LastLog27-10-2017-17-16-19.txt
+Found file that is not a profile: Z:\Spike\Eclipse Projects\USBBackup\USBBackup\bin\Debug\USBBackup.application
+Found file that is not a profile: Z:\Spike\Eclipse Projects\USBBackup\USBBackup\bin\Debug\LastLog23-10-2017-16-46-55.txt
+Found file that is not a profile: Z:\Spike\Eclipse Projects\USBBackup\USBBackup\bin\Debug\meta.txt
+Found file that is not a profile: Z:\Spike\Eclipse Projects\USBBackup\USBBackup\bin\Debug\LastLog23-10-2017-17-05-08.txt
+Found file that is not a profile: Z:\Spike\Eclipse Projects\USBBackup\USBBackup\bin\Debug\LastLog23-10-2017-14-39-34.txt
+Device Root Is: F:\
+TestProfileProper | 
+SettingsFile trying to save file as: Z:\Spike\Eclipse Projects\USBBackup\USBBackup\bin\Debug\meta.txt
+SettingsFile trying to save file as: Z:\Spike\Eclipse Projects\USBBackup\USBBackup\bin\Debug\meta.txt
