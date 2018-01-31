@@ -208,9 +208,8 @@ namespace USBBackup
             }
             //Log.Dump();
             notifyIcon1.Visible = false;
-            Application.Exit();
+            //Application.Exit();
             Application.ExitThread();
-            System.Environment.Exit(0);
         }
 
         private void numericUpDown1_ValueChanged(object sender, EventArgs e)

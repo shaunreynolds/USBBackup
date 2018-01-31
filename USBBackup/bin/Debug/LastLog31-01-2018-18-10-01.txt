@@ -1,0 +1,833 @@
+D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug
+D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog23-01-2018-13-27-26.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog23-01-2018-13-29-01.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog23-10-2017-14-39-34.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog23-10-2017-14-40-55.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog23-10-2017-14-44-50.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog23-10-2017-16-42-23.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog23-10-2017-16-46-55.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog23-10-2017-16-49-47.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog23-10-2017-17-00-51.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog23-10-2017-17-05-08.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog23-10-2017-17-07-37.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog23-10-2017-17-09-12.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog27-10-2017-17-15-34.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog27-10-2017-17-16-19.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog27-10-2017-17-17-46.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog29-10-2017-12-37-47.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog29-10-2017-16-24-27.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog29-10-2017-16-25-32.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog31-01-2018-18-07-30.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\meta.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\USBBackup.application
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\USBBackup.exe
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\USBBackup.exe.config
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\USBBackup.exe.manifest
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\USBBackup.pdb
+Device Root Is: G:\
+CollegeUSB | 
+SettingsFile trying to save file as: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\meta.txt
+SettingsFile trying to save file as: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\meta.txt
+SettingsFile trying to save file as: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\meta.txt
+We should be hidden now!
+Attempting to create file called: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\test.usbdat
+Cannot find the file specified: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\test.usbdat Exception message: Could not find file 'D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\test.usbdat'.
+IgnoredFolders is now: System.String[]
+SettingsFile trying to save file as: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\test.usbdat
+Attempting to delete profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\test.usbdat
+SettingsFile trying to save file as: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\meta.txt
+Scanning for USB Drives...
+There are this many USBProfiles available: 2 It should be 1!
+DeviceID is: E0229944
+Profile Device ID: E0229944
+Found a match, and it requires a backup. Backing up
+File: Z:\CollegeUSBBackup\\PrintScreenApp.exe already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\buzz.html already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Timetable.pdf already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\MenuProg\MenuProg.sln already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\MenuProg\UpgradeLog.htm already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\MenuProg\.vs\MenuProg\v15\.suo already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\MenuProg\.vs\MenuProg\v15\Browse.VC.db already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\MenuProg\.vs\MenuProg\v15\ipch\AutoPCH\MENUPROG-d66c2549\SOURCE-177a1fc4\SOURCE.ipch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\MenuProg\Debug\MenuProg.exe already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\MenuProg\Debug\MenuProg.ilk already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\MenuProg\Debug\MenuProg.pdb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\MenuProg\MenuProg\MenuProg.vcxproj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\MenuProg\MenuProg\MenuProg.vcxproj.filters already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\MenuProg\MenuProg\Source.cpp already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\MenuProg\MenuProg\Debug\MenuProg.Build.CppClean.log already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\MenuProg\MenuProg\Debug\MenuProg.log already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\MenuProg\MenuProg\Debug\Source.obj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\MenuProg\MenuProg\Debug\vc141.idb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\MenuProg\MenuProg\Debug\vc141.pdb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\MenuProg\MenuProg\Debug\MenuProg.tlog\CL.command.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\MenuProg\MenuProg\Debug\MenuProg.tlog\CL.read.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\MenuProg\MenuProg\Debug\MenuProg.tlog\CL.write.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\MenuProg\MenuProg\Debug\MenuProg.tlog\link.command.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\MenuProg\MenuProg\Debug\MenuProg.tlog\link.read.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\MenuProg\MenuProg\Debug\MenuProg.tlog\link.write.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\MenuProg\MenuProg\Debug\MenuProg.tlog\MenuProg.lastbuildstate already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject.sln already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\.vs\ATLProject\v15\.suo already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\.vs\ATLProject\v15\Browse.VC.db already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\.vs\ATLProject\v15\ipch\ATLPROJECT-47f76a64\ATLPROJECT-50095044.ipch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\ATLProject.cpp already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\ATLProject.idl already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\ATLProject.rc already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\ATLProject.rgs already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\ATLProject.vcxproj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\ATLProject.vcxproj.filters already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\ATLProjectps.def already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\ATLProjectPS.vcxproj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\ATLProjectPS.vcxproj.filters already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\ATLProject_i.c already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\ATLProject_i.h already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\ReadMe.txt already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Resource.h already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\stdafx.cpp already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\stdafx.h already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\targetver.h already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.log already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.obj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.pch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.res already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject_i.obj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\stdafx.obj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\vc141.idb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\vc141.pdb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\ATLProject.lastbuildstate already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\CL.command.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\CL.read.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\CL.write.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\link.command.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\link.read.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\link.write.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\midl.command.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\midl.read.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\midl.write.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\rc.command.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\rc.read.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\rc.write.1.tlog already exists at destination with matching timestamp, ignoring.
+File unsuccessfulbuild has extension  that is in the ignore list. Continuing.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\Debug\ATLProject.exe already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\Debug\ATLProject.ilk already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\Debug\ATLProject.pdb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\Console.sln already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\.vs\Console\v15\.suo already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\.vs\Console\v15\Browse.VC.db already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\.vs\Console\v15\ipch\AutoPCH\CONSOLE-4f3105b5\MAIN-d71c043e\MAIN.ipch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\.vs\Console\v15\ipch\AutoPCH\CONSOLE-4f3105b5\SECOND-672d115\SECOND.ipch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\.vs\Console\v15\ipch\AutoPCH\CONSOLE-4f3105b5\SOURCE-fd4842ca\SOURCE.ipch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\Console\Console.vcxproj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\Console\Console.vcxproj.filters already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\Console\Main.cpp already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\Console\Main.h already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\Console\Second.cpp already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\Console\Source.cpp already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.Build.CppClean.log already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.exe already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.log already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Second.obj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\Console\Debug\vc141.idb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\Console\Debug\vc141.pdb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.tlog\CL.command.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.tlog\CL.read.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.tlog\CL.write.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.tlog\Console.lastbuildstate already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.tlog\link.command.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.tlog\link.read.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.tlog\link.write.1.tlog already exists at destination with matching timestamp, ignoring.
+File unsuccessfulbuild has extension  that is in the ignore list. Continuing.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\Debug\Console.exe already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Docs\1_Introduction_to_C.pdf already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Docs\calcsum.c.txt already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Docs\IntroC++.pdf already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Docs\Practical Using VC++.pdf already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Page5\Page5.sln already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Page5\.vs\Page5\v15\.suo already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Page5\.vs\Page5\v15\Browse.VC.db already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Page5\.vs\Page5\v15\ipch\AutoPCH\PAGE5-a129fab2\SOURCE-cabf0c88\SOURCE.ipch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Page5\Debug\Page5.exe already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Page5\Debug\Page5.ilk already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Page5\Debug\Page5.pdb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Page5\Page5\Page5.vcxproj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Page5\Page5\Page5.vcxproj.filters already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Page5\Page5\Source.cpp already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\Page5.Build.CppClean.log already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\Page5.log already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\Source.obj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\vc141.idb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\vc141.pdb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\Page5.tlog\CL.command.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\Page5.tlog\CL.read.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\Page5.tlog\CL.write.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\Page5.tlog\link.command.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\Page5.tlog\link.read.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\Page5.tlog\link.write.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\Page5.tlog\Page5.lastbuildstate already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\Practical.sln already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\.vs\slnx.sqlite already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\.vs\VSWorkspaceState.json already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\.vs\Practical\v15\.suo already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\.vs\Practical\v15\Browse.VC.db already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\.vs\Practical\v15\ipch\AutoPCH\PRACTICAL-37f062d5\CALCSUM-bf26c1c1\CALCSUM.ipch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\.vs\Practical\v15\ipch\AutoPCH\PRACTICAL-37f062d5\CONVERT-2d663f5a\CONVERT.ipch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\.vs\Practical\v15\ipch\AutoPCH\PRACTICAL-37f062d5\CONVERT-76fdbe3f\CONVERT.ipch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\.vs\Practical\v15\ipch\AutoPCH\PRACTICAL-37f062d5\CONVERTHEADER-5fbf2668\CONVERTHEADER.ipch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\.vs\Practical\v15\ipch\AutoPCH\PRACTICAL-37f062d5\HELLOWORLD-4e3b3855\HELLOWORLD.ipch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\Debug\Practical.exe already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\Debug\Practical.ilk already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\Debug\Practical.pdb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\Practical\calcsum.cpp already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\Practical\convert.cpp already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\Practical\convert.h already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\Practical\HelloWorld.cpp already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\Practical\Practical.vcxproj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\Practical\Practical.vcxproj.filters already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\Practical\Debug\convert.obj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\Practical\Debug\HelloWorld.obj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\Practical\Debug\Practical.log already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\Practical\Debug\vc141.idb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\Practical\Debug\vc141.pdb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\Practical\Debug\Practical.tlog\CL.command.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\Practical\Debug\Practical.tlog\CL.read.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\Practical\Debug\Practical.tlog\CL.write.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\Practical\Debug\Practical.tlog\link.command.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\Practical\Debug\Practical.tlog\link.read.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\Practical\Debug\Practical.tlog\link.write.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\Practical\Debug\Practical.tlog\Practical.lastbuildstate already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\HEAP OR STACK.doc already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\HolidayPtrs.docx already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\passbyvalue.cpp already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Pointers.pdf already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Prac_Pointers.pdf already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Practical.sln already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\.vs\Practical\v15\.suo already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\.vs\Practical\v15\Browse.VC.db already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\.vs\Practical\v15\ipch\AutoPCH\PRACTICAL-f9e56396\PASSBYADDRESS-72fa2ef2\PASSBYADDRESS.ipch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\.vs\Practical\v15\ipch\AutoPCH\PRACTICAL-f9e56396\PASSBYREFERENCE-15975bdb\PASSBYREFERENCE.ipch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\.vs\Practical\v15\ipch\AutoPCH\PRACTICAL-f9e56396\PASSBYVALUE-6f855e2b\PASSBYVALUE.ipch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\.vs\Practical\v15\ipch\AutoPCH\PRACTICAL-f9e56396\POINTER1-c1486fac\POINTER1.ipch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\.vs\Practical\v15\ipch\AutoPCH\PRACTICAL-f9e56396\POINTER2-c15a882d\POINTER2.ipch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\.vs\Practical\v15\ipch\AutoPCH\_SFI_79B49A19-C3E5-4F56-A4FA-C1AE30E10FEE_-cdd4aef\PASSBYADDRESS-4d51d63e\PASSBYADDRESS.ipch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Debug\Practical.exe already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Debug\Practical.ilk already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Debug\Practical.pdb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Practical\passbyaddress.cpp already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Practical\passbyreference.cpp already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Practical\pointer1.cpp already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Practical\pointer2.cpp already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Practical\Practical.vcxproj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Practical\Practical.vcxproj.filters already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\passbyaddress.obj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\passbyaddress.obj.enc already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\passbyreference.obj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\passbyvalue.obj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\pointer1.obj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\pointer2.obj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\Practical.log already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\vc141.idb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\vc141.pdb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\Practical.tlog\CL.command.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\Practical.tlog\CL.read.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\Practical.tlog\CL.write.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\Practical.tlog\link.command.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\Practical.tlog\link.read.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\Practical.tlog\link.write.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\Practical.tlog\Practical.lastbuildstate already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\DigitalSecurity\Lab Completion Sheet 2018.doc already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\DigitalSecurity\Lab01\Security_Plus_Lab_01.pdf already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\DigitalSecurity\Lab01\Images\1.png already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\DigitalSecurity\Lab01\Images\2.png already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\DigitalSecurity\Lab01\Images\3.png already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\DigitalSecurity\Lab01\Images\4.png already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\DigitalSecurity\Lab01\Images\5.png already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\DigitalSecurity\Lab01\Images\6.png already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\DigitalSecurity\Lab01\Images\7.png already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\DigitalSecurity\Lab01\Images\8.png already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\DigitalSecurity\Lab03\Images\1.png already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\DigitalSecurity\Lab03\Images\2.png already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\DigitalSecurity\Lab03\Images\3.png already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\DigitalSecurity\Lab03\Images\4.png already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\ResearchMethodologies\Energy_consumption_of_hash_fun.PDF already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\ResearchMethodologies\Journal.docx already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\ResearchMethodologies\URLLink.acsm already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\ResearchMethodologies\Wk1_SkillsAudit_Exercise.doc already exists at destination with matching timestamp, ignoring.
+Folder G:\DBMocker is in the ignore list, returning.
+Folder G:\PaleMoon is in the ignore list, returning.
+System.UnauthorizedAccessException: Access to the path 'G:\System Volume Information' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at USBBackup.USBListener.DirectoryCopy(String sourceDirName, String destDirName, Boolean copySubDirs, HashSet`1 ignoredFolders, HashSet`1 ignoredExtensions) in D:\Projects\VisualStudio\USBBackup\USBBackup\USBListener.cs:line 107
+System.UnauthorizedAccessException: Access to the path 'G:\System Volume Information' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetFiles()
+   at USBBackup.USBListener.DirectoryCopy(String sourceDirName, String destDirName, Boolean copySubDirs, HashSet`1 ignoredFolders, HashSet`1 ignoredExtensions) in D:\Projects\VisualStudio\USBBackup\USBBackup\USBListener.cs:line 122
+Profile Device ID: E0229944
+Found a match, and it requires a backup. Backing up
+Copying File: PrintScreenApp.exe to location: D:\\PrintScreenApp.exe
+Copying File: buzz.html to location: D:\\BscCompSci\buzz.html
+Copying File: Timetable.pdf to location: D:\\BscCompSci\Timetable.pdf
+Copying File: MenuProg.sln to location: D:\\BscCompSci\Year2\C++\MenuProg\MenuProg.sln
+Copying File: UpgradeLog.htm to location: D:\\BscCompSci\Year2\C++\MenuProg\UpgradeLog.htm
+Copying File: .suo to location: D:\\BscCompSci\Year2\C++\MenuProg\.vs\MenuProg\v15\.suo
+Copying File: Browse.VC.db to location: D:\\BscCompSci\Year2\C++\MenuProg\.vs\MenuProg\v15\Browse.VC.db
+Copying File: SOURCE.ipch to location: D:\\BscCompSci\Year2\C++\MenuProg\.vs\MenuProg\v15\ipch\AutoPCH\MENUPROG-d66c2549\SOURCE-177a1fc4\SOURCE.ipch
+Copying File: MenuProg.exe to location: D:\\BscCompSci\Year2\C++\MenuProg\Debug\MenuProg.exe
+Copying File: MenuProg.ilk to location: D:\\BscCompSci\Year2\C++\MenuProg\Debug\MenuProg.ilk
+Copying File: MenuProg.pdb to location: D:\\BscCompSci\Year2\C++\MenuProg\Debug\MenuProg.pdb
+Copying File: MenuProg.vcxproj to location: D:\\BscCompSci\Year2\C++\MenuProg\MenuProg\MenuProg.vcxproj
+Copying File: MenuProg.vcxproj.filters to location: D:\\BscCompSci\Year2\C++\MenuProg\MenuProg\MenuProg.vcxproj.filters
+Copying File: Source.cpp to location: D:\\BscCompSci\Year2\C++\MenuProg\MenuProg\Source.cpp
+Copying File: MenuProg.Build.CppClean.log to location: D:\\BscCompSci\Year2\C++\MenuProg\MenuProg\Debug\MenuProg.Build.CppClean.log
+Copying File: MenuProg.log to location: D:\\BscCompSci\Year2\C++\MenuProg\MenuProg\Debug\MenuProg.log
+Copying File: Source.obj to location: D:\\BscCompSci\Year2\C++\MenuProg\MenuProg\Debug\Source.obj
+Copying File: vc141.idb to location: D:\\BscCompSci\Year2\C++\MenuProg\MenuProg\Debug\vc141.idb
+Copying File: vc141.pdb to location: D:\\BscCompSci\Year2\C++\MenuProg\MenuProg\Debug\vc141.pdb
+Copying File: CL.command.1.tlog to location: D:\\BscCompSci\Year2\C++\MenuProg\MenuProg\Debug\MenuProg.tlog\CL.command.1.tlog
+Copying File: CL.read.1.tlog to location: D:\\BscCompSci\Year2\C++\MenuProg\MenuProg\Debug\MenuProg.tlog\CL.read.1.tlog
+Copying File: CL.write.1.tlog to location: D:\\BscCompSci\Year2\C++\MenuProg\MenuProg\Debug\MenuProg.tlog\CL.write.1.tlog
+Copying File: link.command.1.tlog to location: D:\\BscCompSci\Year2\C++\MenuProg\MenuProg\Debug\MenuProg.tlog\link.command.1.tlog
+Copying File: link.read.1.tlog to location: D:\\BscCompSci\Year2\C++\MenuProg\MenuProg\Debug\MenuProg.tlog\link.read.1.tlog
+Copying File: link.write.1.tlog to location: D:\\BscCompSci\Year2\C++\MenuProg\MenuProg\Debug\MenuProg.tlog\link.write.1.tlog
+Copying File: MenuProg.lastbuildstate to location: D:\\BscCompSci\Year2\C++\MenuProg\MenuProg\Debug\MenuProg.tlog\MenuProg.lastbuildstate
+Copying File: ATLProject.sln to location: D:\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject.sln
+Copying File: .suo to location: D:\\BscCompSci\Year2\C++\Week1\ATLProject\.vs\ATLProject\v15\.suo
+Copying File: Browse.VC.db to location: D:\\BscCompSci\Year2\C++\Week1\ATLProject\.vs\ATLProject\v15\Browse.VC.db
+Copying File: ATLPROJECT-50095044.ipch to location: D:\\BscCompSci\Year2\C++\Week1\ATLProject\.vs\ATLProject\v15\ipch\ATLPROJECT-47f76a64\ATLPROJECT-50095044.ipch
+Copying File: ATLProject.cpp to location: D:\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\ATLProject.cpp
+Copying File: ATLProject.idl to location: D:\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\ATLProject.idl
+Copying File: ATLProject.rc to location: D:\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\ATLProject.rc
+Copying File: ATLProject.rgs to location: D:\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\ATLProject.rgs
+Copying File: ATLProject.vcxproj to location: D:\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\ATLProject.vcxproj
+Copying File: ATLProject.vcxproj.filters to location: D:\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\ATLProject.vcxproj.filters
+Copying File: ATLProjectps.def to location: D:\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\ATLProjectps.def
+Copying File: ATLProjectPS.vcxproj to location: D:\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\ATLProjectPS.vcxproj
+Copying File: ATLProjectPS.vcxproj.filters to location: D:\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\ATLProjectPS.vcxproj.filters
+Copying File: ATLProject_i.c to location: D:\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\ATLProject_i.c
+Copying File: ATLProject_i.h to location: D:\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\ATLProject_i.h
+Copying File: ReadMe.txt to location: D:\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\ReadMe.txt
+Copying File: Resource.h to location: D:\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Resource.h
+Copying File: stdafx.cpp to location: D:\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\stdafx.cpp
+Copying File: stdafx.h to location: D:\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\stdafx.h
+Copying File: targetver.h to location: D:\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\targetver.h
+Copying File: ATLProject.log to location: D:\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.log
+Copying File: ATLProject.obj to location: D:\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.obj
+Copying File: ATLProject.pch to location: D:\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.pch
+Copying File: ATLProject.res to location: D:\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.res
+Copying File: ATLProject.tlb to location: D:\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlb
+Copying File: ATLProject_i.obj to location: D:\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject_i.obj
+Copying File: stdafx.obj to location: D:\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\stdafx.obj
+Copying File: vc141.idb to location: D:\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\vc141.idb
+Copying File: vc141.pdb to location: D:\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\vc141.pdb
+Copying File: ATLProject.lastbuildstate to location: D:\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\ATLProject.lastbuildstate
+Copying File: CL.command.1.tlog to location: D:\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\CL.command.1.tlog
+Copying File: CL.read.1.tlog to location: D:\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\CL.read.1.tlog
+Copying File: CL.write.1.tlog to location: D:\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\CL.write.1.tlog
+Copying File: link.command.1.tlog to location: D:\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\link.command.1.tlog
+Copying File: link.read.1.tlog to location: D:\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\link.read.1.tlog
+Copying File: link.write.1.tlog to location: D:\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\link.write.1.tlog
+Copying File: midl.command.1.tlog to location: D:\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\midl.command.1.tlog
+Copying File: midl.read.1.tlog to location: D:\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\midl.read.1.tlog
+Copying File: midl.write.1.tlog to location: D:\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\midl.write.1.tlog
+Copying File: rc.command.1.tlog to location: D:\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\rc.command.1.tlog
+Copying File: rc.read.1.tlog to location: D:\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\rc.read.1.tlog
+Copying File: rc.write.1.tlog to location: D:\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\rc.write.1.tlog
+Copying File: unsuccessfulbuild to location: D:\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\unsuccessfulbuild
+Copying File: ATLProject.exe to location: D:\\BscCompSci\Year2\C++\Week1\ATLProject\Debug\ATLProject.exe
+Copying File: ATLProject.ilk to location: D:\\BscCompSci\Year2\C++\Week1\ATLProject\Debug\ATLProject.ilk
+Copying File: ATLProject.pdb to location: D:\\BscCompSci\Year2\C++\Week1\ATLProject\Debug\ATLProject.pdb
+Copying File: Console.sln to location: D:\\BscCompSci\Year2\C++\Week1\Console\Console.sln
+Copying File: .suo to location: D:\\BscCompSci\Year2\C++\Week1\Console\.vs\Console\v15\.suo
+Copying File: Browse.VC.db to location: D:\\BscCompSci\Year2\C++\Week1\Console\.vs\Console\v15\Browse.VC.db
+Copying File: MAIN.ipch to location: D:\\BscCompSci\Year2\C++\Week1\Console\.vs\Console\v15\ipch\AutoPCH\CONSOLE-4f3105b5\MAIN-d71c043e\MAIN.ipch
+Copying File: SECOND.ipch to location: D:\\BscCompSci\Year2\C++\Week1\Console\.vs\Console\v15\ipch\AutoPCH\CONSOLE-4f3105b5\SECOND-672d115\SECOND.ipch
+Copying File: SOURCE.ipch to location: D:\\BscCompSci\Year2\C++\Week1\Console\.vs\Console\v15\ipch\AutoPCH\CONSOLE-4f3105b5\SOURCE-fd4842ca\SOURCE.ipch
+Copying File: Console.vcxproj to location: D:\\BscCompSci\Year2\C++\Week1\Console\Console\Console.vcxproj
+Copying File: Console.vcxproj.filters to location: D:\\BscCompSci\Year2\C++\Week1\Console\Console\Console.vcxproj.filters
+Copying File: Main.cpp to location: D:\\BscCompSci\Year2\C++\Week1\Console\Console\Main.cpp
+Copying File: Main.h to location: D:\\BscCompSci\Year2\C++\Week1\Console\Console\Main.h
+Copying File: Second.cpp to location: D:\\BscCompSci\Year2\C++\Week1\Console\Console\Second.cpp
+Copying File: Source.cpp to location: D:\\BscCompSci\Year2\C++\Week1\Console\Console\Source.cpp
+Copying File: Console.Build.CppClean.log to location: D:\\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.Build.CppClean.log
+Copying File: Console.exe to location: D:\\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.exe
+Copying File: Console.log to location: D:\\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.log
+Copying File: Second.obj to location: D:\\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Second.obj
+Copying File: vc141.idb to location: D:\\BscCompSci\Year2\C++\Week1\Console\Console\Debug\vc141.idb
+Copying File: vc141.pdb to location: D:\\BscCompSci\Year2\C++\Week1\Console\Console\Debug\vc141.pdb
+Copying File: CL.command.1.tlog to location: D:\\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.tlog\CL.command.1.tlog
+Copying File: CL.read.1.tlog to location: D:\\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.tlog\CL.read.1.tlog
+Copying File: CL.write.1.tlog to location: D:\\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.tlog\CL.write.1.tlog
+Copying File: Console.lastbuildstate to location: D:\\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.tlog\Console.lastbuildstate
+Copying File: link.command.1.tlog to location: D:\\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.tlog\link.command.1.tlog
+Copying File: link.read.1.tlog to location: D:\\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.tlog\link.read.1.tlog
+Copying File: link.write.1.tlog to location: D:\\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.tlog\link.write.1.tlog
+Copying File: unsuccessfulbuild to location: D:\\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.tlog\unsuccessfulbuild
+Copying File: Console.exe to location: D:\\BscCompSci\Year2\C++\Week1\Console\Debug\Console.exe
+Copying File: 1_Introduction_to_C.pdf to location: D:\\BscCompSci\Year2\C++\Week1\Docs\1_Introduction_to_C.pdf
+Copying File: calcsum.c.txt to location: D:\\BscCompSci\Year2\C++\Week1\Docs\calcsum.c.txt
+Copying File: IntroC++.pdf to location: D:\\BscCompSci\Year2\C++\Week1\Docs\IntroC++.pdf
+Copying File: Practical Using VC++.pdf to location: D:\\BscCompSci\Year2\C++\Week1\Docs\Practical Using VC++.pdf
+Copying File: Page5.sln to location: D:\\BscCompSci\Year2\C++\Week1\Page5\Page5.sln
+Copying File: .suo to location: D:\\BscCompSci\Year2\C++\Week1\Page5\.vs\Page5\v15\.suo
+Copying File: Browse.VC.db to location: D:\\BscCompSci\Year2\C++\Week1\Page5\.vs\Page5\v15\Browse.VC.db
+Copying File: SOURCE.ipch to location: D:\\BscCompSci\Year2\C++\Week1\Page5\.vs\Page5\v15\ipch\AutoPCH\PAGE5-a129fab2\SOURCE-cabf0c88\SOURCE.ipch
+Copying File: Page5.exe to location: D:\\BscCompSci\Year2\C++\Week1\Page5\Debug\Page5.exe
+Copying File: Page5.ilk to location: D:\\BscCompSci\Year2\C++\Week1\Page5\Debug\Page5.ilk
+Copying File: Page5.pdb to location: D:\\BscCompSci\Year2\C++\Week1\Page5\Debug\Page5.pdb
+Copying File: Page5.vcxproj to location: D:\\BscCompSci\Year2\C++\Week1\Page5\Page5\Page5.vcxproj
+Copying File: Page5.vcxproj.filters to location: D:\\BscCompSci\Year2\C++\Week1\Page5\Page5\Page5.vcxproj.filters
+Copying File: Source.cpp to location: D:\\BscCompSci\Year2\C++\Week1\Page5\Page5\Source.cpp
+Copying File: Page5.Build.CppClean.log to location: D:\\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\Page5.Build.CppClean.log
+Copying File: Page5.log to location: D:\\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\Page5.log
+Copying File: Source.obj to location: D:\\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\Source.obj
+Copying File: vc141.idb to location: D:\\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\vc141.idb
+Copying File: vc141.pdb to location: D:\\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\vc141.pdb
+Copying File: CL.command.1.tlog to location: D:\\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\Page5.tlog\CL.command.1.tlog
+Copying File: CL.read.1.tlog to location: D:\\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\Page5.tlog\CL.read.1.tlog
+Copying File: CL.write.1.tlog to location: D:\\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\Page5.tlog\CL.write.1.tlog
+Copying File: link.command.1.tlog to location: D:\\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\Page5.tlog\link.command.1.tlog
+Copying File: link.read.1.tlog to location: D:\\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\Page5.tlog\link.read.1.tlog
+Copying File: link.write.1.tlog to location: D:\\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\Page5.tlog\link.write.1.tlog
+Copying File: Page5.lastbuildstate to location: D:\\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\Page5.tlog\Page5.lastbuildstate
+Copying File: Practical.sln to location: D:\\BscCompSci\Year2\C++\Week1\Practical\Practical.sln
+Copying File: slnx.sqlite to location: D:\\BscCompSci\Year2\C++\Week1\Practical\.vs\slnx.sqlite
+Copying File: VSWorkspaceState.json to location: D:\\BscCompSci\Year2\C++\Week1\Practical\.vs\VSWorkspaceState.json
+Copying File: .suo to location: D:\\BscCompSci\Year2\C++\Week1\Practical\.vs\Practical\v15\.suo
+Copying File: Browse.VC.db to location: D:\\BscCompSci\Year2\C++\Week1\Practical\.vs\Practical\v15\Browse.VC.db
+Copying File: CALCSUM.ipch to location: D:\\BscCompSci\Year2\C++\Week1\Practical\.vs\Practical\v15\ipch\AutoPCH\PRACTICAL-37f062d5\CALCSUM-bf26c1c1\CALCSUM.ipch
+Copying File: CONVERT.ipch to location: D:\\BscCompSci\Year2\C++\Week1\Practical\.vs\Practical\v15\ipch\AutoPCH\PRACTICAL-37f062d5\CONVERT-2d663f5a\CONVERT.ipch
+Copying File: CONVERT.ipch to location: D:\\BscCompSci\Year2\C++\Week1\Practical\.vs\Practical\v15\ipch\AutoPCH\PRACTICAL-37f062d5\CONVERT-76fdbe3f\CONVERT.ipch
+Copying File: CONVERTHEADER.ipch to location: D:\\BscCompSci\Year2\C++\Week1\Practical\.vs\Practical\v15\ipch\AutoPCH\PRACTICAL-37f062d5\CONVERTHEADER-5fbf2668\CONVERTHEADER.ipch
+Copying File: HELLOWORLD.ipch to location: D:\\BscCompSci\Year2\C++\Week1\Practical\.vs\Practical\v15\ipch\AutoPCH\PRACTICAL-37f062d5\HELLOWORLD-4e3b3855\HELLOWORLD.ipch
+Copying File: Practical.exe to location: D:\\BscCompSci\Year2\C++\Week1\Practical\Debug\Practical.exe
+Copying File: Practical.ilk to location: D:\\BscCompSci\Year2\C++\Week1\Practical\Debug\Practical.ilk
+Copying File: Practical.pdb to location: D:\\BscCompSci\Year2\C++\Week1\Practical\Debug\Practical.pdb
+Copying File: calcsum.cpp to location: D:\\BscCompSci\Year2\C++\Week1\Practical\Practical\calcsum.cpp
+Copying File: convert.cpp to location: D:\\BscCompSci\Year2\C++\Week1\Practical\Practical\convert.cpp
+Copying File: convert.h to location: D:\\BscCompSci\Year2\C++\Week1\Practical\Practical\convert.h
+Copying File: HelloWorld.cpp to location: D:\\BscCompSci\Year2\C++\Week1\Practical\Practical\HelloWorld.cpp
+Copying File: Practical.vcxproj to location: D:\\BscCompSci\Year2\C++\Week1\Practical\Practical\Practical.vcxproj
+Copying File: Practical.vcxproj.filters to location: D:\\BscCompSci\Year2\C++\Week1\Practical\Practical\Practical.vcxproj.filters
+Copying File: convert.obj to location: D:\\BscCompSci\Year2\C++\Week1\Practical\Practical\Debug\convert.obj
+Copying File: HelloWorld.obj to location: D:\\BscCompSci\Year2\C++\Week1\Practical\Practical\Debug\HelloWorld.obj
+Copying File: Practical.log to location: D:\\BscCompSci\Year2\C++\Week1\Practical\Practical\Debug\Practical.log
+Copying File: vc141.idb to location: D:\\BscCompSci\Year2\C++\Week1\Practical\Practical\Debug\vc141.idb
+Copying File: vc141.pdb to location: D:\\BscCompSci\Year2\C++\Week1\Practical\Practical\Debug\vc141.pdb
+Copying File: CL.command.1.tlog to location: D:\\BscCompSci\Year2\C++\Week1\Practical\Practical\Debug\Practical.tlog\CL.command.1.tlog
+Copying File: CL.read.1.tlog to location: D:\\BscCompSci\Year2\C++\Week1\Practical\Practical\Debug\Practical.tlog\CL.read.1.tlog
+Copying File: CL.write.1.tlog to location: D:\\BscCompSci\Year2\C++\Week1\Practical\Practical\Debug\Practical.tlog\CL.write.1.tlog
+Copying File: link.command.1.tlog to location: D:\\BscCompSci\Year2\C++\Week1\Practical\Practical\Debug\Practical.tlog\link.command.1.tlog
+Copying File: link.read.1.tlog to location: D:\\BscCompSci\Year2\C++\Week1\Practical\Practical\Debug\Practical.tlog\link.read.1.tlog
+Copying File: link.write.1.tlog to location: D:\\BscCompSci\Year2\C++\Week1\Practical\Practical\Debug\Practical.tlog\link.write.1.tlog
+Copying File: Practical.lastbuildstate to location: D:\\BscCompSci\Year2\C++\Week1\Practical\Practical\Debug\Practical.tlog\Practical.lastbuildstate
+Copying File: HEAP OR STACK.doc to location: D:\\BscCompSci\Year2\C++\Week2\HEAP OR STACK.doc
+Copying File: HolidayPtrs.docx to location: D:\\BscCompSci\Year2\C++\Week2\HolidayPtrs.docx
+Copying File: passbyvalue.cpp to location: D:\\BscCompSci\Year2\C++\Week2\passbyvalue.cpp
+Copying File: Pointers.pdf to location: D:\\BscCompSci\Year2\C++\Week2\Pointers.pdf
+Copying File: Prac_Pointers.pdf to location: D:\\BscCompSci\Year2\C++\Week2\Prac_Pointers.pdf
+Copying File: Practical.sln to location: D:\\BscCompSci\Year2\C++\Week2\Practical\Practical.sln
+Copying File: .suo to location: D:\\BscCompSci\Year2\C++\Week2\Practical\.vs\Practical\v15\.suo
+Copying File: Browse.VC.db to location: D:\\BscCompSci\Year2\C++\Week2\Practical\.vs\Practical\v15\Browse.VC.db
+Copying File: PASSBYADDRESS.ipch to location: D:\\BscCompSci\Year2\C++\Week2\Practical\.vs\Practical\v15\ipch\AutoPCH\PRACTICAL-f9e56396\PASSBYADDRESS-72fa2ef2\PASSBYADDRESS.ipch
+Copying File: PASSBYREFERENCE.ipch to location: D:\\BscCompSci\Year2\C++\Week2\Practical\.vs\Practical\v15\ipch\AutoPCH\PRACTICAL-f9e56396\PASSBYREFERENCE-15975bdb\PASSBYREFERENCE.ipch
+Copying File: PASSBYVALUE.ipch to location: D:\\BscCompSci\Year2\C++\Week2\Practical\.vs\Practical\v15\ipch\AutoPCH\PRACTICAL-f9e56396\PASSBYVALUE-6f855e2b\PASSBYVALUE.ipch
+Copying File: POINTER1.ipch to location: D:\\BscCompSci\Year2\C++\Week2\Practical\.vs\Practical\v15\ipch\AutoPCH\PRACTICAL-f9e56396\POINTER1-c1486fac\POINTER1.ipch
+Copying File: POINTER2.ipch to location: D:\\BscCompSci\Year2\C++\Week2\Practical\.vs\Practical\v15\ipch\AutoPCH\PRACTICAL-f9e56396\POINTER2-c15a882d\POINTER2.ipch
+Copying File: PASSBYADDRESS.ipch to location: D:\\BscCompSci\Year2\C++\Week2\Practical\.vs\Practical\v15\ipch\AutoPCH\_SFI_79B49A19-C3E5-4F56-A4FA-C1AE30E10FEE_-cdd4aef\PASSBYADDRESS-4d51d63e\PASSBYADDRESS.ipch
+Copying File: Practical.exe to location: D:\\BscCompSci\Year2\C++\Week2\Practical\Debug\Practical.exe
+Copying File: Practical.ilk to location: D:\\BscCompSci\Year2\C++\Week2\Practical\Debug\Practical.ilk
+Copying File: Practical.pdb to location: D:\\BscCompSci\Year2\C++\Week2\Practical\Debug\Practical.pdb
+Copying File: passbyaddress.cpp to location: D:\\BscCompSci\Year2\C++\Week2\Practical\Practical\passbyaddress.cpp
+Copying File: passbyreference.cpp to location: D:\\BscCompSci\Year2\C++\Week2\Practical\Practical\passbyreference.cpp
+Copying File: pointer1.cpp to location: D:\\BscCompSci\Year2\C++\Week2\Practical\Practical\pointer1.cpp
+Copying File: pointer2.cpp to location: D:\\BscCompSci\Year2\C++\Week2\Practical\Practical\pointer2.cpp
+Copying File: Practical.vcxproj to location: D:\\BscCompSci\Year2\C++\Week2\Practical\Practical\Practical.vcxproj
+Copying File: Practical.vcxproj.filters to location: D:\\BscCompSci\Year2\C++\Week2\Practical\Practical\Practical.vcxproj.filters
+Copying File: passbyaddress.obj to location: D:\\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\passbyaddress.obj
+Copying File: passbyaddress.obj.enc to location: D:\\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\passbyaddress.obj.enc
+Copying File: passbyreference.obj to location: D:\\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\passbyreference.obj
+Copying File: passbyvalue.obj to location: D:\\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\passbyvalue.obj
+Copying File: pointer1.obj to location: D:\\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\pointer1.obj
+Copying File: pointer2.obj to location: D:\\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\pointer2.obj
+Copying File: Practical.log to location: D:\\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\Practical.log
+Copying File: vc141.idb to location: D:\\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\vc141.idb
+Copying File: vc141.pdb to location: D:\\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\vc141.pdb
+Copying File: CL.command.1.tlog to location: D:\\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\Practical.tlog\CL.command.1.tlog
+Copying File: CL.read.1.tlog to location: D:\\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\Practical.tlog\CL.read.1.tlog
+Copying File: CL.write.1.tlog to location: D:\\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\Practical.tlog\CL.write.1.tlog
+Copying File: link.command.1.tlog to location: D:\\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\Practical.tlog\link.command.1.tlog
+Copying File: link.read.1.tlog to location: D:\\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\Practical.tlog\link.read.1.tlog
+Copying File: link.write.1.tlog to location: D:\\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\Practical.tlog\link.write.1.tlog
+Copying File: Practical.lastbuildstate to location: D:\\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\Practical.tlog\Practical.lastbuildstate
+Copying File: Lab Completion Sheet 2018.doc to location: D:\\BscCompSci\Year2\DigitalSecurity\Lab Completion Sheet 2018.doc
+Copying File: Security_Plus_Lab_01.pdf to location: D:\\BscCompSci\Year2\DigitalSecurity\Lab01\Security_Plus_Lab_01.pdf
+Copying File: 1.png to location: D:\\BscCompSci\Year2\DigitalSecurity\Lab01\Images\1.png
+Copying File: 2.png to location: D:\\BscCompSci\Year2\DigitalSecurity\Lab01\Images\2.png
+Copying File: 3.png to location: D:\\BscCompSci\Year2\DigitalSecurity\Lab01\Images\3.png
+Copying File: 4.png to location: D:\\BscCompSci\Year2\DigitalSecurity\Lab01\Images\4.png
+Copying File: 5.png to location: D:\\BscCompSci\Year2\DigitalSecurity\Lab01\Images\5.png
+Copying File: 6.png to location: D:\\BscCompSci\Year2\DigitalSecurity\Lab01\Images\6.png
+Copying File: 7.png to location: D:\\BscCompSci\Year2\DigitalSecurity\Lab01\Images\7.png
+Copying File: 8.png to location: D:\\BscCompSci\Year2\DigitalSecurity\Lab01\Images\8.png
+Copying File: 1.png to location: D:\\BscCompSci\Year2\DigitalSecurity\Lab03\Images\1.png
+Copying File: 2.png to location: D:\\BscCompSci\Year2\DigitalSecurity\Lab03\Images\2.png
+Copying File: 3.png to location: D:\\BscCompSci\Year2\DigitalSecurity\Lab03\Images\3.png
+Copying File: 4.png to location: D:\\BscCompSci\Year2\DigitalSecurity\Lab03\Images\4.png
+Copying File: Energy_consumption_of_hash_fun.PDF to location: D:\\BscCompSci\Year2\ResearchMethodologies\Energy_consumption_of_hash_fun.PDF
+Copying File: Journal.docx to location: D:\\BscCompSci\Year2\ResearchMethodologies\Journal.docx
+Copying File: URLLink.acsm to location: D:\\BscCompSci\Year2\ResearchMethodologies\URLLink.acsm
+Copying File: Wk1_SkillsAudit_Exercise.doc to location: D:\\BscCompSci\Year2\ResearchMethodologies\Wk1_SkillsAudit_Exercise.doc
+Copying File: .gitignore to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\.gitignore
+Copying File: LICENSE.md to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\LICENSE.md
+Copying File: README.md to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\README.md
+Copying File: Common.projitems to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\Common\Common.projitems
+Copying File: Common.shproj to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\Common\Common.shproj
+Copying File: IniFile.cs to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\Common\Ini\IniFile.cs
+Copying File: IniFileSection.cs to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\Common\Ini\IniFileSection.cs
+Copying File: ExtendedRandom.cs to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\Common\Utilities\ExtendedRandom.cs
+Copying File: ListShuffle.cs to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\Common\Utilities\ListShuffle.cs
+Copying File: Log.cs to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\Common\Utilities\Log.cs
+Copying File: StringManipulation.cs to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\Common\Utilities\StringManipulation.cs
+Copying File: App.config to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\App.config
+Copying File: DatabaseMocker.csproj to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\DatabaseMocker.csproj
+Copying File: DatabaseMocker.sln to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\DatabaseMocker.sln
+Copying File: Form1.cs to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\Form1.cs
+Copying File: Form1.Designer.cs to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\Form1.Designer.cs
+Copying File: Program.cs to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\Program.cs
+Copying File: .suo to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\.vs\DatabaseMocker\v15\.suo
+Copying File: DatabaseMocker.exe to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\bin\Debug\DatabaseMocker.exe
+Copying File: DatabaseMocker.exe.config to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\bin\Debug\DatabaseMocker.exe.config
+Copying File: DatabaseMocker.pdb to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\bin\Debug\DatabaseMocker.pdb
+Copying File: debug.txt to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\bin\Debug\debug.txt
+Copying File: Data.cs to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\Data\Data.cs
+Copying File: URLs.cs to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\Data\URLs.cs
+Copying File: Column.cs to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\DataBase\Column.cs
+Copying File: Table.cs to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\DataBase\Table.cs
+Copying File: AbstractGenerator.cs to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\Generators\AbstractGenerator.cs
+Copying File: CardNumberGenerator.cs to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\Generators\CardNumberGenerator.cs
+Copying File: DateGenerator.cs to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\Generators\DateGenerator.cs
+Copying File: EmailAddressGenerator.cs to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\Generators\EmailAddressGenerator.cs
+Copying File: ExistingColumnGenerator.cs to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\Generators\ExistingColumnGenerator.cs
+Copying File: FemaleFirstNameGenerator.cs to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\Generators\FemaleFirstNameGenerator.cs
+Copying File: GeneratorOptions.cs to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\Generators\GeneratorOptions.cs
+Copying File: IGenerator.cs to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\Generators\IGenerator.cs
+Copying File: MaleFirstNameGenerator.cs to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\Generators\MaleFirstNameGenerator.cs
+Copying File: NameGenerator.cs to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\Generators\NameGenerator.cs
+Copying File: NullValueGenerator.cs to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\Generators\NullValueGenerator.cs
+Copying File: NumberGenerator.cs to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\Generators\NumberGenerator.cs
+Copying File: PhoneNumberGenerator.cs to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\Generators\PhoneNumberGenerator.cs
+Copying File: PostCodeGenerator.cs to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\Generators\PostCodeGenerator.cs
+Copying File: RowNumberGenerator.cs to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\Generators\RowNumberGenerator.cs
+Copying File: StreetNameGenerator.cs to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\Generators\StreetNameGenerator.cs
+Copying File: TimeGenerator.cs to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\Generators\TimeGenerator.cs
+Copying File: CoreCompileInputs.cache to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\obj\Debug\CoreCompileInputs.cache
+Copying File: DatabaseMocker.csproj.FileListAbsolute.txt to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\obj\Debug\DatabaseMocker.csproj.FileListAbsolute.txt
+Copying File: DatabaseMocker.csproj.GenerateResource.Cache to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\obj\Debug\DatabaseMocker.csproj.GenerateResource.Cache
+Copying File: DatabaseMocker.csprojResolveAssemblyReference.cache to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\obj\Debug\DatabaseMocker.csprojResolveAssemblyReference.cache
+Copying File: DatabaseMocker.exe to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\obj\Debug\DatabaseMocker.exe
+Copying File: DatabaseMocker.pdb to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\obj\Debug\DatabaseMocker.pdb
+Copying File: DatabaseMocker.Properties.Resources.resources to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\obj\Debug\DatabaseMocker.Properties.Resources.resources
+Copying File: DesignTimeResolveAssemblyReferencesInput.cache to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+Copying File: TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+Copying File: TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+Copying File: TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+Copying File: MSTest.TestAdapter.1.2.0.nupkg to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestAdapter.1.2.0\MSTest.TestAdapter.1.2.0.nupkg
+Copying File: MSTest.TestAdapter.props to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestAdapter.1.2.0\build\net45\MSTest.TestAdapter.props
+Copying File: MSTest.TestAdapter.targets to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestAdapter.1.2.0\build\net45\MSTest.TestAdapter.targets
+Copying File: Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestAdapter.1.2.0\build\netcoreapp1.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+Copying File: MSTest.TestAdapter.props to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestAdapter.1.2.0\build\netcoreapp1.0\MSTest.TestAdapter.props
+Copying File: Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestAdapter.1.2.0\build\uap10.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+Copying File: MSTest.TestAdapter.props to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestAdapter.1.2.0\build\uap10.0\MSTest.TestAdapter.props
+Copying File: MSTest.TestAdapter.targets to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestAdapter.1.2.0\build\uap10.0\MSTest.TestAdapter.targets
+Copying File: Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestAdapter.1.2.0\build\_common\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestAdapter.1.2.0\build\_common\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestAdapter.1.2.0\build\_common\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestAdapter.1.2.0\build\_common\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestAdapter.1.2.0\build\_common\cs\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestAdapter.1.2.0\build\_common\cs\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestAdapter.1.2.0\build\_common\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestAdapter.1.2.0\build\_common\de\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestAdapter.1.2.0\build\_common\de\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestAdapter.1.2.0\build\_common\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestAdapter.1.2.0\build\_common\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestAdapter.1.2.0\build\_common\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestAdapter.1.2.0\build\_common\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestAdapter.1.2.0\build\_common\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestAdapter.1.2.0\build\_common\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestAdapter.1.2.0\build\_common\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestAdapter.1.2.0\build\_common\it\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestAdapter.1.2.0\build\_common\it\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestAdapter.1.2.0\build\_common\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestAdapter.1.2.0\build\_common\ja\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestAdapter.1.2.0\build\_common\ja\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestAdapter.1.2.0\build\_common\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestAdapter.1.2.0\build\_common\ko\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestAdapter.1.2.0\build\_common\ko\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestAdapter.1.2.0\build\_common\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestAdapter.1.2.0\build\_common\pl\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestAdapter.1.2.0\build\_common\pl\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestAdapter.1.2.0\build\_common\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestAdapter.1.2.0\build\_common\pt\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestAdapter.1.2.0\build\_common\pt\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestAdapter.1.2.0\build\_common\pt\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestAdapter.1.2.0\build\_common\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestAdapter.1.2.0\build\_common\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestAdapter.1.2.0\build\_common\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestAdapter.1.2.0\build\_common\tr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestAdapter.1.2.0\build\_common\tr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestAdapter.1.2.0\build\_common\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestAdapter.1.2.0\build\_common\zh-Hans\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestAdapter.1.2.0\build\_common\zh-Hans\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestAdapter.1.2.0\build\_common\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestAdapter.1.2.0\build\_common\zh-Hant\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestAdapter.1.2.0\build\_common\zh-Hant\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestAdapter.1.2.0\build\_common\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+Copying File: MSTest.TestFramework.1.2.0.nupkg to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\MSTest.TestFramework.1.2.0.nupkg
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\net45\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\net45\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.XML to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\net45\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.XML
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.XML to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\net45\Microsoft.VisualStudio.TestPlatform.TestFramework.XML
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\net45\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\net45\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\net45\de\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\net45\de\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\net45\es\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\net45\es\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\net45\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\net45\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\net45\it\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\net45\it\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\net45\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\net45\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\net45\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\net45\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\net45\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\net45\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\net45\pt\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\net45\pt\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\net45\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\net45\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\net45\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\net45\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\net45\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\net45\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\net45\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\net45\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.XML to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.XML
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.XML to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\Microsoft.VisualStudio.TestPlatform.TestFramework.XML
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\pt\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\pt\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.XML to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.XML
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.XML to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\Microsoft.VisualStudio.TestPlatform.TestFramework.XML
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\pt\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\pt\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Copying File: AssemblyInfo.cs to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\Properties\AssemblyInfo.cs
+Copying File: Resources.Designer.cs to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\Properties\Resources.Designer.cs
+Copying File: Resources.resx to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\Properties\Resources.resx
+Copying File: Settings.Designer.cs to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\Properties\Settings.Designer.cs
+Copying File: Settings.settings to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\DatabaseMocker\Properties\Settings.settings
+Copying File: packages.config to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\UnitTests\packages.config
+Copying File: TestExtendedRandom.cs to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\UnitTests\TestExtendedRandom.cs
+Copying File: TestHTTPReading.cs to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\UnitTests\TestHTTPReading.cs
+Copying File: UnitTests.csproj to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\UnitTests\UnitTests.csproj
+Copying File: DatabaseMocker.exe to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\UnitTests\bin\Debug\DatabaseMocker.exe
+Copying File: DatabaseMocker.exe.config to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\UnitTests\bin\Debug\DatabaseMocker.exe.config
+Copying File: DatabaseMocker.pdb to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\UnitTests\bin\Debug\DatabaseMocker.pdb
+Copying File: Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Copying File: Microsoft.VisualStudio.TestPlatform.TestFramework.xml to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Copying File: UnitTests.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\UnitTests\bin\Debug\UnitTests.dll
+Copying File: UnitTests.pdb to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\UnitTests\bin\Debug\UnitTests.pdb
+Copying File: CoreCompileInputs.cache to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\UnitTests\obj\Debug\CoreCompileInputs.cache
+Copying File: DesignTimeResolveAssemblyReferencesInput.cache to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\UnitTests\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+Copying File: TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\UnitTests\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+Copying File: TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\UnitTests\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+Copying File: TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\UnitTests\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+Copying File: UnitTests.csproj.FileListAbsolute.txt to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\UnitTests\obj\Debug\UnitTests.csproj.FileListAbsolute.txt
+Copying File: UnitTests.csprojResolveAssemblyReference.cache to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+Copying File: UnitTests.dll to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\UnitTests\obj\Debug\UnitTests.dll
+Copying File: UnitTests.pdb to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\UnitTests\obj\Debug\UnitTests.pdb
+Copying File: AssemblyInfo.cs to location: D:\\DBMocker\databasemocker-master-3c24ae3a5954f7cd89decf52978e392ffa92201a\UnitTests\Properties\AssemblyInfo.cs
+Copying File: Palemoon-Portable.exe to location: D:\\PaleMoon\Palemoon-Portable.exe
+Copying File: Palemoon-Portable.ini to location: D:\\PaleMoon\Palemoon-Portable.ini
+Copying File: bookmarks-2018-01-24_11_pYqrjNC6ArtIhnbv5oapWg==.jsonlz4 to location: D:\\PaleMoon\Backups\Palemoon\bookmarks-2018-01-24_11_pYqrjNC6ArtIhnbv5oapWg==.jsonlz4
+Copying File: key3.db to location: D:\\PaleMoon\Backups\Palemoon\key3.db
+Copying File: logins.json to location: D:\\PaleMoon\Backups\Palemoon\logins.json
+Copying File: application.ini to location: D:\\PaleMoon\Bin\Palemoon\application.ini
+Copying File: browserconfig.properties to location: D:\\PaleMoon\Bin\Palemoon\browserconfig.properties
+Copying File: d3dcompiler_47.dll to location: D:\\PaleMoon\Bin\Palemoon\d3dcompiler_47.dll
+Copying File: dependentlibs.list to location: D:\\PaleMoon\Bin\Palemoon\dependentlibs.list
+Copying File: freebl3.chk to location: D:\\PaleMoon\Bin\Palemoon\freebl3.chk
+Copying File: freebl3.dll to location: D:\\PaleMoon\Bin\Palemoon\freebl3.dll
+Copying File: gkmedias.dll to location: D:\\PaleMoon\Bin\Palemoon\gkmedias.dll
+Copying File: icudt58.dll to location: D:\\PaleMoon\Bin\Palemoon\icudt58.dll
+Copying File: icuin58.dll to location: D:\\PaleMoon\Bin\Palemoon\icuin58.dll
+Copying File: icuuc58.dll to location: D:\\PaleMoon\Bin\Palemoon\icuuc58.dll
+Copying File: libEGL.dll to location: D:\\PaleMoon\Bin\Palemoon\libEGL.dll
+Copying File: libGLESv2.dll to location: D:\\PaleMoon\Bin\Palemoon\libGLESv2.dll
+Copying File: mozalloc.dll to location: D:\\PaleMoon\Bin\Palemoon\mozalloc.dll
+Copying File: mozglue.dll to location: D:\\PaleMoon\Bin\Palemoon\mozglue.dll
+Copying File: mozjs.dll to location: D:\\PaleMoon\Bin\Palemoon\mozjs.dll
+Copying File: msvcp120.dll to location: D:\\PaleMoon\Bin\Palemoon\msvcp120.dll
+Copying File: msvcr120.dll to location: D:\\PaleMoon\Bin\Palemoon\msvcr120.dll
+Copying File: nss3.dll to location: D:\\PaleMoon\Bin\Palemoon\nss3.dll
+Copying File: nssckbi.dll to location: D:\\PaleMoon\Bin\Palemoon\nssckbi.dll
+Copying File: nssdbm3.chk to location: D:\\PaleMoon\Bin\Palemoon\nssdbm3.chk
+Copying File: nssdbm3.dll to location: D:\\PaleMoon\Bin\Palemoon\nssdbm3.dll
+Copying File: omni.ja to location: D:\\PaleMoon\Bin\Palemoon\omni.ja
+Copying File: palemoon.exe to location: D:\\PaleMoon\Bin\Palemoon\palemoon.exe
+Copying File: palemoon.VisualElementsManifest.xml to location: D:\\PaleMoon\Bin\Palemoon\palemoon.VisualElementsManifest.xml
+Copying File: platform.ini to location: D:\\PaleMoon\Bin\Palemoon\platform.ini
+Copying File: plugin-container.exe to location: D:\\PaleMoon\Bin\Palemoon\plugin-container.exe
+Copying File: plugin-hang-ui.exe to location: D:\\PaleMoon\Bin\Palemoon\plugin-hang-ui.exe
+Copying File: precomplete to location: D:\\PaleMoon\Bin\Palemoon\precomplete
+Copying File: removed-files to location: D:\\PaleMoon\Bin\Palemoon\removed-files
+Copying File: softokn3.chk to location: D:\\PaleMoon\Bin\Palemoon\softokn3.chk
+Copying File: softokn3.dll to location: D:\\PaleMoon\Bin\Palemoon\softokn3.dll
+Copying File: update-settings.ini to location: D:\\PaleMoon\Bin\Palemoon\update-settings.ini
+Copying File: updater.exe to location: D:\\PaleMoon\Bin\Palemoon\updater.exe
+Copying File: updater.ini to location: D:\\PaleMoon\Bin\Palemoon\updater.ini
+Copying File: vcomp120.dll to location: D:\\PaleMoon\Bin\Palemoon\vcomp120.dll
+Copying File: xul.dll to location: D:\\PaleMoon\Bin\Palemoon\xul.dll
+Copying File: blocklist.xml to location: D:\\PaleMoon\Bin\Palemoon\browser\blocklist.xml
+Copying File: chrome.manifest to location: D:\\PaleMoon\Bin\Palemoon\browser\chrome.manifest
+Copying File: omni.ja to location: D:\\PaleMoon\Bin\Palemoon\browser\omni.ja
+Copying File: browsercomps.dll to location: D:\\PaleMoon\Bin\Palemoon\browser\components\browsercomps.dll
+Copying File: components.manifest to location: D:\\PaleMoon\Bin\Palemoon\browser\components\components.manifest
+Copying File: icon.png to location: D:\\PaleMoon\Bin\Palemoon\browser\extensions\{972ce4c6-7e08-4474-a285-3208198ce6fd}\icon.png
+Copying File: install.rdf to location: D:\\PaleMoon\Bin\Palemoon\browser\extensions\{972ce4c6-7e08-4474-a285-3208198ce6fd}\install.rdf
+Copying File: bing.xml to location: D:\\PaleMoon\Bin\Palemoon\browser\searchplugins\bing.xml
+Copying File: duckduckgo-palemoon.xml to location: D:\\PaleMoon\Bin\Palemoon\browser\searchplugins\duckduckgo-palemoon.xml
+Copying File: ecosia.xml to location: D:\\PaleMoon\Bin\Palemoon\browser\searchplugins\ecosia.xml
+Copying File: twitter.xml to location: D:\\PaleMoon\Bin\Palemoon\browser\searchplugins\twitter.xml
+Copying File: wikipedia.xml to location: D:\\PaleMoon\Bin\Palemoon\browser\searchplugins\wikipedia.xml
+Copying File: yahoo.xml to location: D:\\PaleMoon\Bin\Palemoon\browser\searchplugins\yahoo.xml
+Copying File: VisualElements_150.png to location: D:\\PaleMoon\Bin\Palemoon\browser\VisualElements\VisualElements_150.png
+Copying File: VisualElements_70.png to location: D:\\PaleMoon\Bin\Palemoon\browser\VisualElements\VisualElements_70.png
+Copying File: channel-prefs.js to location: D:\\PaleMoon\Bin\Palemoon\defaults\pref\channel-prefs.js
+Copying File: palemoon.js to location: D:\\PaleMoon\Bin\Palemoon\defaults\pref\palemoon.js
+Copying File: en-US.aff to location: D:\\PaleMoon\Bin\Palemoon\dictionaries\en-US.aff
+Copying File: en-US.dic to location: D:\\PaleMoon\Bin\Palemoon\dictionaries\en-US.dic
+Copying File: portable_splash_2016.jpg to location: D:\\PaleMoon\Lib\portable_splash_2016.jpg
+Copying File: Acknowledgements.txt to location: D:\\PaleMoon\ReadMe\Acknowledgements.txt
+Copying File: Palemoon-Portable-license.txt to location: D:\\PaleMoon\ReadMe\Palemoon-Portable-license.txt
+Copying File: WinPenPack-license_en.txt to location: D:\\PaleMoon\ReadMe\WinPenPack-license_en.txt
+Copying File: blocklist.xml to location: D:\\PaleMoon\User\Palemoon\Profiles\Default\blocklist.xml
+Copying File: cert8.db to location: D:\\PaleMoon\User\Palemoon\Profiles\Default\cert8.db
+Copying File: compatibility.ini to location: D:\\PaleMoon\User\Palemoon\Profiles\Default\compatibility.ini
+Copying File: content-prefs.sqlite to location: D:\\PaleMoon\User\Palemoon\Profiles\Default\content-prefs.sqlite
+Copying File: cookies.sqlite to location: D:\\PaleMoon\User\Palemoon\Profiles\Default\cookies.sqlite
+Copying File: extensions.ini to location: D:\\PaleMoon\User\Palemoon\Profiles\Default\extensions.ini
+Copying File: extensions.json to location: D:\\PaleMoon\User\Palemoon\Profiles\Default\extensions.json
+Copying File: formhistory.sqlite to location: D:\\PaleMoon\User\Palemoon\Profiles\Default\formhistory.sqlite
+Copying File: key3.db to location: D:\\PaleMoon\User\Palemoon\Profiles\Default\key3.db
+Copying File: localstore.rdf to location: D:\\PaleMoon\User\Palemoon\Profiles\Default\localstore.rdf
+Copying File: logins.json to location: D:\\PaleMoon\User\Palemoon\Profiles\Default\logins.json
+Copying File: mimeTypes.rdf to location: D:\\PaleMoon\User\Palemoon\Profiles\Default\mimeTypes.rdf
+Copying File: parent.lock to location: D:\\PaleMoon\User\Palemoon\Profiles\Default\parent.lock
+Copying File: permissions.sqlite to location: D:\\PaleMoon\User\Palemoon\Profiles\Default\permissions.sqlite
+Copying File: places.sqlite to location: D:\\PaleMoon\User\Palemoon\Profiles\Default\places.sqlite
+Copying File: places.sqlite-shm to location: D:\\PaleMoon\User\Palemoon\Profiles\Default\places.sqlite-shm
+Copying File: places.sqlite-wal to location: D:\\PaleMoon\User\Palemoon\Profiles\Default\places.sqlite-wal
+Copying File: pluginreg.dat to location: D:\\PaleMoon\User\Palemoon\Profiles\Default\pluginreg.dat
+Copying File: prefs.js to location: D:\\PaleMoon\User\Palemoon\Profiles\Default\prefs.js
+Copying File: search.json to location: D:\\PaleMoon\User\Palemoon\Profiles\Default\search.json
+Copying File: secmod.db to location: D:\\PaleMoon\User\Palemoon\Profiles\Default\secmod.db
+Copying File: sessionCheckpoints.json to location: D:\\PaleMoon\User\Palemoon\Profiles\Default\sessionCheckpoints.json
+Copying File: sessionstore.bak to location: D:\\PaleMoon\User\Palemoon\Profiles\Default\sessionstore.bak
+Copying File: sessionstore.js to location: D:\\PaleMoon\User\Palemoon\Profiles\Default\sessionstore.js
+Copying File: SiteSecurityServiceState.txt to location: D:\\PaleMoon\User\Palemoon\Profiles\Default\SiteSecurityServiceState.txt
+Copying File: user.js to location: D:\\PaleMoon\User\Palemoon\Profiles\Default\user.js
+Copying File: webappsstore.sqlite to location: D:\\PaleMoon\User\Palemoon\Profiles\Default\webappsstore.sqlite
+Copying File: xulstore.json to location: D:\\PaleMoon\User\Palemoon\Profiles\Default\xulstore.json
+Copying File: bookmarks-2018-01-24_11_pYqrjNC6ArtIhnbv5oapWg==.jsonlz4 to location: D:\\PaleMoon\User\Palemoon\Profiles\Default\bookmarkbackups\bookmarks-2018-01-24_11_pYqrjNC6ArtIhnbv5oapWg==.jsonlz4
+Copying File: startupCache.8.little to location: D:\\PaleMoon\User\Palemoon\Profiles\Default\startupCache\startupCache.8.little
+Copying File: 2e66350a233b95c4e0347f82cd1fcbbb.png to location: D:\\PaleMoon\User\Palemoon\Profiles\Default\thumbnails\2e66350a233b95c4e0347f82cd1fcbbb.png
+Copying File: 74b71a73859029be3fdbaa6bf601be84.png to location: D:\\PaleMoon\User\Palemoon\Profiles\Default\thumbnails\74b71a73859029be3fdbaa6bf601be84.png
+Copying File: ae34ff530160a2df4de52251bae5022e.png to location: D:\\PaleMoon\User\Palemoon\Profiles\Default\thumbnails\ae34ff530160a2df4de52251bae5022e.png
+Copying File: d433f3e9988316cca8567fa42cecd989.png to location: D:\\PaleMoon\User\Palemoon\Profiles\Default\thumbnails\d433f3e9988316cca8567fa42cecd989.png
+System.UnauthorizedAccessException: Access to the path 'G:\System Volume Information' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at USBBackup.USBListener.DirectoryCopy(String sourceDirName, String destDirName, Boolean copySubDirs, HashSet`1 ignoredFolders, HashSet`1 ignoredExtensions) in D:\Projects\VisualStudio\USBBackup\USBBackup\USBListener.cs:line 107
+System.UnauthorizedAccessException: Access to the path 'G:\System Volume Information' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetFiles()
+   at USBBackup.USBListener.DirectoryCopy(String sourceDirName, String destDirName, Boolean copySubDirs, HashSet`1 ignoredFolders, HashSet`1 ignoredExtensions) in D:\Projects\VisualStudio\USBBackup\USBBackup\USBListener.cs:line 122
+SettingsFile trying to save file as: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\meta.txt
+SettingsFile trying to save file as: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\meta.txt
+SettingsFile trying to save file as: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\meta.txt
+SettingsFile trying to save file as: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\meta.txt
+SettingsFile trying to save file as: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\meta.txt
+SettingsFile trying to save file as: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\meta.txt

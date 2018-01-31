@@ -1,0 +1,126 @@
+D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug
+D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog23-01-2018-13-27-26.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog23-10-2017-14-39-34.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog23-10-2017-14-40-55.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog23-10-2017-14-44-50.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog23-10-2017-16-42-23.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog23-10-2017-16-46-55.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog23-10-2017-16-49-47.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog23-10-2017-17-00-51.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog23-10-2017-17-05-08.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog23-10-2017-17-07-37.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog23-10-2017-17-09-12.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog27-10-2017-17-15-34.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog27-10-2017-17-16-19.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog27-10-2017-17-17-46.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog29-10-2017-12-37-47.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog29-10-2017-16-24-27.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog29-10-2017-16-25-32.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\meta.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\USBBackup.application
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\USBBackup.exe
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\USBBackup.exe.config
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\USBBackup.exe.manifest
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\USBBackup.pdb
+Device Root Is: G:\
+TestProfileProper | 
+SettingsFile trying to save file as: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\meta.txt
+SettingsFile trying to save file as: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\meta.txt
+Attempting to create file called: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\CollegeUSB.usbdat
+Cannot find the file specified: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\CollegeUSB.usbdat Exception message: Could not find file 'D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\CollegeUSB.usbdat'.
+IgnoredFolders is now: System.String[]
+SettingsFile trying to save file as: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\CollegeUSB.usbdat
+SettingsFile trying to save file as: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\meta.txt
+SettingsFile trying to save file as: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\meta.txt
+Attempting to create file called: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\CollegeUSB.usbdat
+IgnoredFolders is now: System.String[]
+This object is in value array: 
+SettingsFile trying to save file as: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\CollegeUSB.usbdat
+Scanning for USB Drives...
+There are this many USBProfiles available: 3 It should be 1!
+DeviceID is: E0229944
+Profile Device ID: A87FA61F
+Profile Device ID: E0229944
+Found a match, and it requires a backup. Backing up
+Copying File: PrintScreenApp.exe to location: Z:\CollegeUSBBackup\PrintScreenApp.exe
+Copying File: Timetable.pdf to location: Z:\CollegeUSBBackup\BscCompSci\Timetable.pdf
+Copying File: Console.sln to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\Console.sln
+Copying File: .suo to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\.vs\Console\v15\.suo
+Copying File: Browse.VC.db to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\.vs\Console\v15\Browse.VC.db
+Copying File: MAIN.ipch to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\.vs\Console\v15\ipch\AutoPCH\CONSOLE-4f3105b5\MAIN-d71c043e\MAIN.ipch
+Copying File: SECOND.ipch to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\.vs\Console\v15\ipch\AutoPCH\CONSOLE-4f3105b5\SECOND-672d115\SECOND.ipch
+Copying File: SOURCE.ipch to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\.vs\Console\v15\ipch\AutoPCH\CONSOLE-4f3105b5\SOURCE-fd4842ca\SOURCE.ipch
+Copying File: Console.vcxproj to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\Console\Console.vcxproj
+Copying File: Console.vcxproj.filters to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\Console\Console.vcxproj.filters
+Copying File: Main.cpp to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\Console\Main.cpp
+Copying File: Main.h to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\Console\Main.h
+Copying File: Second.cpp to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\Console\Second.cpp
+Copying File: Source.cpp to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\Console\Source.cpp
+Copying File: Console.Build.CppClean.log to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.Build.CppClean.log
+Copying File: Console.exe to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.exe
+Copying File: Console.log to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.log
+Copying File: Second.obj to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Second.obj
+Copying File: vc141.idb to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\Console\Debug\vc141.idb
+Copying File: vc141.pdb to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\Console\Debug\vc141.pdb
+Copying File: CL.command.1.tlog to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.tlog\CL.command.1.tlog
+Copying File: CL.read.1.tlog to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.tlog\CL.read.1.tlog
+Copying File: CL.write.1.tlog to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.tlog\CL.write.1.tlog
+Copying File: Console.lastbuildstate to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.tlog\Console.lastbuildstate
+Copying File: link.command.1.tlog to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.tlog\link.command.1.tlog
+Copying File: link.read.1.tlog to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.tlog\link.read.1.tlog
+Copying File: link.write.1.tlog to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.tlog\link.write.1.tlog
+Copying File: unsuccessfulbuild to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.tlog\unsuccessfulbuild
+Copying File: Console.exe to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\Debug\Console.exe
+Copying File: 1_Introduction_to_C.pdf to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Docs\1_Introduction_to_C.pdf
+Copying File: calcsum.c.txt to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Docs\calcsum.c.txt
+Copying File: IntroC++.pdf to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Docs\IntroC++.pdf
+Copying File: Practical Using VC++.pdf to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Docs\Practical Using VC++.pdf
+Copying File: Page5.sln to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Page5\Page5.sln
+Copying File: .suo to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Page5\.vs\Page5\v15\.suo
+Copying File: Browse.VC.db to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Page5\.vs\Page5\v15\Browse.VC.db
+Copying File: SOURCE.ipch to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Page5\.vs\Page5\v15\ipch\AutoPCH\PAGE5-a129fab2\SOURCE-cabf0c88\SOURCE.ipch
+Copying File: Page5.exe to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Page5\Debug\Page5.exe
+Copying File: Page5.ilk to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Page5\Debug\Page5.ilk
+Copying File: Page5.pdb to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Page5\Debug\Page5.pdb
+Copying File: Page5.vcxproj to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Page5\Page5\Page5.vcxproj
+Copying File: Page5.vcxproj.filters to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Page5\Page5\Page5.vcxproj.filters
+Copying File: Source.cpp to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Page5\Page5\Source.cpp
+Copying File: Page5.Build.CppClean.log to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\Page5.Build.CppClean.log
+Copying File: Page5.log to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\Page5.log
+Copying File: Source.obj to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\Source.obj
+Copying File: vc141.idb to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\vc141.idb
+Copying File: vc141.pdb to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\vc141.pdb
+Copying File: CL.command.1.tlog to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\Page5.tlog\CL.command.1.tlog
+Copying File: CL.read.1.tlog to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\Page5.tlog\CL.read.1.tlog
+Copying File: CL.write.1.tlog to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\Page5.tlog\CL.write.1.tlog
+Copying File: link.command.1.tlog to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\Page5.tlog\link.command.1.tlog
+Copying File: link.read.1.tlog to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\Page5.tlog\link.read.1.tlog
+Copying File: link.write.1.tlog to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\Page5.tlog\link.write.1.tlog
+Copying File: Page5.lastbuildstate to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\Page5.tlog\Page5.lastbuildstate
+Copying File: Security_Plus_Lab_01.pdf to location: Z:\CollegeUSBBackup\BscCompSci\Year2\DigitalSecurity\Lab01\Security_Plus_Lab_01.pdf
+Copying File: 1.png to location: Z:\CollegeUSBBackup\BscCompSci\Year2\DigitalSecurity\Lab01\Images\1.png
+Copying File: 2.png to location: Z:\CollegeUSBBackup\BscCompSci\Year2\DigitalSecurity\Lab01\Images\2.png
+Copying File: 3.png to location: Z:\CollegeUSBBackup\BscCompSci\Year2\DigitalSecurity\Lab01\Images\3.png
+Copying File: 4.png to location: Z:\CollegeUSBBackup\BscCompSci\Year2\DigitalSecurity\Lab01\Images\4.png
+Copying File: 5.png to location: Z:\CollegeUSBBackup\BscCompSci\Year2\DigitalSecurity\Lab01\Images\5.png
+Copying File: 6.png to location: Z:\CollegeUSBBackup\BscCompSci\Year2\DigitalSecurity\Lab01\Images\6.png
+Copying File: 7.png to location: Z:\CollegeUSBBackup\BscCompSci\Year2\DigitalSecurity\Lab01\Images\7.png
+Copying File: 8.png to location: Z:\CollegeUSBBackup\BscCompSci\Year2\DigitalSecurity\Lab01\Images\8.png
+System.UnauthorizedAccessException: Access to the path 'G:\System Volume Information' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at USBBackup.USBListener.DirectoryCopy(String sourceDirName, String destDirName, Boolean copySubDirs, HashSet`1 ignoredFolders, HashSet`1 ignoredExtensions) in D:\Projects\VisualStudio\USBBackup\USBBackup\USBListener.cs:line 107
+System.UnauthorizedAccessException: Access to the path 'G:\System Volume Information' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetFiles()
+   at USBBackup.USBListener.DirectoryCopy(String sourceDirName, String destDirName, Boolean copySubDirs, HashSet`1 ignoredFolders, HashSet`1 ignoredExtensions) in D:\Projects\VisualStudio\USBBackup\USBBackup\USBListener.cs:line 122
+Profile Device ID: E0229944
+Found a match, and it requires a backup. Backing up
+Folder G:\ is in the ignore list, returning.

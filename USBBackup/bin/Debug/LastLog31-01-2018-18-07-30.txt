@@ -1,0 +1,516 @@
+D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug
+D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog23-01-2018-13-27-26.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog23-01-2018-13-29-01.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog23-10-2017-14-39-34.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog23-10-2017-14-40-55.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog23-10-2017-14-44-50.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog23-10-2017-16-42-23.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog23-10-2017-16-46-55.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog23-10-2017-16-49-47.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog23-10-2017-17-00-51.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog23-10-2017-17-05-08.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog23-10-2017-17-07-37.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog23-10-2017-17-09-12.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog27-10-2017-17-15-34.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog27-10-2017-17-16-19.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog27-10-2017-17-17-46.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog29-10-2017-12-37-47.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog29-10-2017-16-24-27.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\LastLog29-10-2017-16-25-32.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\meta.txt
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\USBBackup.application
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\USBBackup.exe
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\USBBackup.exe.config
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\USBBackup.exe.manifest
+Found file that is not a profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\USBBackup.pdb
+Device Root Is: G:\
+CollegeUSB | TestProfileProper | 
+SettingsFile trying to save file as: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\meta.txt
+SettingsFile trying to save file as: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\meta.txt
+SettingsFile trying to save file as: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\meta.txt
+We should be hidden now!
+Attempting to delete profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\CollegeUSB.usbdat
+Attempting to delete profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\TestProfileProper.usbdat
+Attempting to create file called: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\CollegeUSB.usbdat
+Cannot find the file specified: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\CollegeUSB.usbdat Exception message: Could not find file 'D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\CollegeUSB.usbdat'.
+IgnoredFolders is now: System.String[]
+This object is in value array: PaleMoon
+This object is in value array: DBMocker
+SettingsFile trying to save file as: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\CollegeUSB.usbdat
+Attempting to delete profile: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\TestProfileProper.usbdat
+Attempting to create file called: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\CollegeUSB.usbdat
+IgnoredFolders is now: System.String[]
+This object is in value array: PaleMoon
+This object is in value array: DBMocker
+SettingsFile trying to save file as: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\CollegeUSB.usbdat
+Scanning for USB Drives...
+There are this many USBProfiles available: 4 It should be 1!
+DeviceID is: E0229944
+Profile Device ID: E0229944
+Found a match, and it requires a backup. Backing up
+Folder G:\ is in the ignore list, returning.
+Profile Device ID: A87FA61F
+Profile Device ID: E0229944
+Found a match, and it requires a backup. Backing up
+File: Z:\CollegeUSBBackup\PrintScreenApp.exe already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\buzz.html already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Timetable.pdf already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\MenuProg\MenuProg.sln already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\MenuProg\UpgradeLog.htm already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\MenuProg\.vs\MenuProg\v15\.suo already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\MenuProg\.vs\MenuProg\v15\Browse.VC.db already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\MenuProg\.vs\MenuProg\v15\ipch\AutoPCH\MENUPROG-d66c2549\SOURCE-177a1fc4\SOURCE.ipch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\MenuProg\Debug\MenuProg.exe already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\MenuProg\Debug\MenuProg.ilk already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\MenuProg\Debug\MenuProg.pdb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\MenuProg\MenuProg\MenuProg.vcxproj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\MenuProg\MenuProg\MenuProg.vcxproj.filters already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\MenuProg\MenuProg\Source.cpp already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\MenuProg\MenuProg\Debug\MenuProg.Build.CppClean.log already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\MenuProg\MenuProg\Debug\MenuProg.log already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\MenuProg\MenuProg\Debug\Source.obj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\MenuProg\MenuProg\Debug\vc141.idb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\MenuProg\MenuProg\Debug\vc141.pdb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\MenuProg\MenuProg\Debug\MenuProg.tlog\CL.command.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\MenuProg\MenuProg\Debug\MenuProg.tlog\CL.read.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\MenuProg\MenuProg\Debug\MenuProg.tlog\CL.write.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\MenuProg\MenuProg\Debug\MenuProg.tlog\link.command.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\MenuProg\MenuProg\Debug\MenuProg.tlog\link.read.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\MenuProg\MenuProg\Debug\MenuProg.tlog\link.write.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\MenuProg\MenuProg\Debug\MenuProg.tlog\MenuProg.lastbuildstate already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject.sln already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\ATLProject\.vs\ATLProject\v15\.suo already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\ATLProject\.vs\ATLProject\v15\Browse.VC.db already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\ATLProject\.vs\ATLProject\v15\ipch\ATLPROJECT-47f76a64\ATLPROJECT-50095044.ipch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\ATLProject.cpp already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\ATLProject.idl already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\ATLProject.rc already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\ATLProject.rgs already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\ATLProject.vcxproj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\ATLProject.vcxproj.filters already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\ATLProjectps.def already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\ATLProjectPS.vcxproj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\ATLProjectPS.vcxproj.filters already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\ATLProject_i.c already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\ATLProject_i.h already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\ReadMe.txt already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Resource.h already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\stdafx.cpp already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\stdafx.h already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\targetver.h already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.log already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.obj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.pch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.res already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject_i.obj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\stdafx.obj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\vc141.idb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\vc141.pdb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\ATLProject.lastbuildstate already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\CL.command.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\CL.read.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\CL.write.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\link.command.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\link.read.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\link.write.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\midl.command.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\midl.read.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\midl.write.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\rc.command.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\rc.read.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\rc.write.1.tlog already exists at destination with matching timestamp, ignoring.
+Copying File: unsuccessfulbuild to location: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\unsuccessfulbuild
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\ATLProject\Debug\ATLProject.exe already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\ATLProject\Debug\ATLProject.ilk already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\ATLProject\Debug\ATLProject.pdb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\Console.sln already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\.vs\Console\v15\.suo already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\.vs\Console\v15\Browse.VC.db already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\.vs\Console\v15\ipch\AutoPCH\CONSOLE-4f3105b5\MAIN-d71c043e\MAIN.ipch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\.vs\Console\v15\ipch\AutoPCH\CONSOLE-4f3105b5\SECOND-672d115\SECOND.ipch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\.vs\Console\v15\ipch\AutoPCH\CONSOLE-4f3105b5\SOURCE-fd4842ca\SOURCE.ipch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\Console\Console.vcxproj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\Console\Console.vcxproj.filters already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\Console\Main.cpp already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\Console\Main.h already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\Console\Second.cpp already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\Console\Source.cpp already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.Build.CppClean.log already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.exe already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.log already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Second.obj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\Console\Debug\vc141.idb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\Console\Debug\vc141.pdb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.tlog\CL.command.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.tlog\CL.read.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.tlog\CL.write.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.tlog\Console.lastbuildstate already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.tlog\link.command.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.tlog\link.read.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.tlog\link.write.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.tlog\unsuccessfulbuild already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Console\Debug\Console.exe already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Docs\1_Introduction_to_C.pdf already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Docs\calcsum.c.txt already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Docs\IntroC++.pdf already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Docs\Practical Using VC++.pdf already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Page5\Page5.sln already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Page5\.vs\Page5\v15\.suo already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Page5\.vs\Page5\v15\Browse.VC.db already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Page5\.vs\Page5\v15\ipch\AutoPCH\PAGE5-a129fab2\SOURCE-cabf0c88\SOURCE.ipch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Page5\Debug\Page5.exe already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Page5\Debug\Page5.ilk already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Page5\Debug\Page5.pdb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Page5\Page5\Page5.vcxproj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Page5\Page5\Page5.vcxproj.filters already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Page5\Page5\Source.cpp already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\Page5.Build.CppClean.log already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\Page5.log already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\Source.obj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\vc141.idb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\vc141.pdb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\Page5.tlog\CL.command.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\Page5.tlog\CL.read.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\Page5.tlog\CL.write.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\Page5.tlog\link.command.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\Page5.tlog\link.read.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\Page5.tlog\link.write.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\Page5.tlog\Page5.lastbuildstate already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Practical\Practical.sln already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Practical\.vs\slnx.sqlite already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Practical\.vs\VSWorkspaceState.json already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Practical\.vs\Practical\v15\.suo already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Practical\.vs\Practical\v15\Browse.VC.db already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Practical\.vs\Practical\v15\ipch\AutoPCH\PRACTICAL-37f062d5\CALCSUM-bf26c1c1\CALCSUM.ipch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Practical\.vs\Practical\v15\ipch\AutoPCH\PRACTICAL-37f062d5\CONVERT-2d663f5a\CONVERT.ipch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Practical\.vs\Practical\v15\ipch\AutoPCH\PRACTICAL-37f062d5\CONVERT-76fdbe3f\CONVERT.ipch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Practical\.vs\Practical\v15\ipch\AutoPCH\PRACTICAL-37f062d5\CONVERTHEADER-5fbf2668\CONVERTHEADER.ipch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Practical\.vs\Practical\v15\ipch\AutoPCH\PRACTICAL-37f062d5\HELLOWORLD-4e3b3855\HELLOWORLD.ipch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Practical\Debug\Practical.exe already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Practical\Debug\Practical.ilk already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Practical\Debug\Practical.pdb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Practical\Practical\calcsum.cpp already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Practical\Practical\convert.cpp already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Practical\Practical\convert.h already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Practical\Practical\HelloWorld.cpp already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Practical\Practical\Practical.vcxproj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Practical\Practical\Practical.vcxproj.filters already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Practical\Practical\Debug\convert.obj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Practical\Practical\Debug\HelloWorld.obj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Practical\Practical\Debug\Practical.log already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Practical\Practical\Debug\vc141.idb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Practical\Practical\Debug\vc141.pdb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Practical\Practical\Debug\Practical.tlog\CL.command.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Practical\Practical\Debug\Practical.tlog\CL.read.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Practical\Practical\Debug\Practical.tlog\CL.write.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Practical\Practical\Debug\Practical.tlog\link.command.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Practical\Practical\Debug\Practical.tlog\link.read.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Practical\Practical\Debug\Practical.tlog\link.write.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week1\Practical\Practical\Debug\Practical.tlog\Practical.lastbuildstate already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week2\HEAP OR STACK.doc already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week2\HolidayPtrs.docx already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week2\passbyvalue.cpp already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week2\Pointers.pdf already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week2\Prac_Pointers.pdf already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week2\Practical\Practical.sln already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week2\Practical\.vs\Practical\v15\.suo already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week2\Practical\.vs\Practical\v15\Browse.VC.db already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week2\Practical\.vs\Practical\v15\ipch\AutoPCH\PRACTICAL-f9e56396\PASSBYADDRESS-72fa2ef2\PASSBYADDRESS.ipch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week2\Practical\.vs\Practical\v15\ipch\AutoPCH\PRACTICAL-f9e56396\PASSBYREFERENCE-15975bdb\PASSBYREFERENCE.ipch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week2\Practical\.vs\Practical\v15\ipch\AutoPCH\PRACTICAL-f9e56396\PASSBYVALUE-6f855e2b\PASSBYVALUE.ipch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week2\Practical\.vs\Practical\v15\ipch\AutoPCH\PRACTICAL-f9e56396\POINTER1-c1486fac\POINTER1.ipch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week2\Practical\.vs\Practical\v15\ipch\AutoPCH\PRACTICAL-f9e56396\POINTER2-c15a882d\POINTER2.ipch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week2\Practical\.vs\Practical\v15\ipch\AutoPCH\_SFI_79B49A19-C3E5-4F56-A4FA-C1AE30E10FEE_-cdd4aef\PASSBYADDRESS-4d51d63e\PASSBYADDRESS.ipch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week2\Practical\Debug\Practical.exe already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week2\Practical\Debug\Practical.ilk already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week2\Practical\Debug\Practical.pdb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week2\Practical\Practical\passbyaddress.cpp already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week2\Practical\Practical\passbyreference.cpp already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week2\Practical\Practical\pointer1.cpp already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week2\Practical\Practical\pointer2.cpp already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week2\Practical\Practical\Practical.vcxproj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week2\Practical\Practical\Practical.vcxproj.filters already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\passbyaddress.obj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\passbyaddress.obj.enc already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\passbyreference.obj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\passbyvalue.obj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\pointer1.obj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\pointer2.obj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\Practical.log already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\vc141.idb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\vc141.pdb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\Practical.tlog\CL.command.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\Practical.tlog\CL.read.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\Practical.tlog\CL.write.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\Practical.tlog\link.command.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\Practical.tlog\link.read.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\Practical.tlog\link.write.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\Practical.tlog\Practical.lastbuildstate already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\DigitalSecurity\Lab Completion Sheet 2018.doc already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\DigitalSecurity\Lab01\Security_Plus_Lab_01.pdf already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\DigitalSecurity\Lab01\Images\1.png already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\DigitalSecurity\Lab01\Images\2.png already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\DigitalSecurity\Lab01\Images\3.png already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\DigitalSecurity\Lab01\Images\4.png already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\DigitalSecurity\Lab01\Images\5.png already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\DigitalSecurity\Lab01\Images\6.png already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\DigitalSecurity\Lab01\Images\7.png already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\DigitalSecurity\Lab01\Images\8.png already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\DigitalSecurity\Lab03\Images\1.png already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\DigitalSecurity\Lab03\Images\2.png already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\DigitalSecurity\Lab03\Images\3.png already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\DigitalSecurity\Lab03\Images\4.png already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\ResearchMethodologies\Energy_consumption_of_hash_fun.PDF already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\ResearchMethodologies\Journal.docx already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\ResearchMethodologies\URLLink.acsm already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\BscCompSci\Year2\ResearchMethodologies\Wk1_SkillsAudit_Exercise.doc already exists at destination with matching timestamp, ignoring.
+Folder G:\DBMocker is in the ignore list, returning.
+Folder G:\PaleMoon is in the ignore list, returning.
+System.UnauthorizedAccessException: Access to the path 'G:\System Volume Information' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at USBBackup.USBListener.DirectoryCopy(String sourceDirName, String destDirName, Boolean copySubDirs, HashSet`1 ignoredFolders, HashSet`1 ignoredExtensions) in D:\Projects\VisualStudio\USBBackup\USBBackup\USBListener.cs:line 107
+System.UnauthorizedAccessException: Access to the path 'G:\System Volume Information' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetFiles()
+   at USBBackup.USBListener.DirectoryCopy(String sourceDirName, String destDirName, Boolean copySubDirs, HashSet`1 ignoredFolders, HashSet`1 ignoredExtensions) in D:\Projects\VisualStudio\USBBackup\USBBackup\USBListener.cs:line 122
+Profile Device ID: E0229944
+Found a match, and it requires a backup. Backing up
+File: Z:\CollegeUSBBackup\\PrintScreenApp.exe already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\buzz.html already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Timetable.pdf already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\MenuProg\MenuProg.sln already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\MenuProg\UpgradeLog.htm already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\MenuProg\.vs\MenuProg\v15\.suo already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\MenuProg\.vs\MenuProg\v15\Browse.VC.db already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\MenuProg\.vs\MenuProg\v15\ipch\AutoPCH\MENUPROG-d66c2549\SOURCE-177a1fc4\SOURCE.ipch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\MenuProg\Debug\MenuProg.exe already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\MenuProg\Debug\MenuProg.ilk already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\MenuProg\Debug\MenuProg.pdb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\MenuProg\MenuProg\MenuProg.vcxproj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\MenuProg\MenuProg\MenuProg.vcxproj.filters already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\MenuProg\MenuProg\Source.cpp already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\MenuProg\MenuProg\Debug\MenuProg.Build.CppClean.log already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\MenuProg\MenuProg\Debug\MenuProg.log already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\MenuProg\MenuProg\Debug\Source.obj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\MenuProg\MenuProg\Debug\vc141.idb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\MenuProg\MenuProg\Debug\vc141.pdb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\MenuProg\MenuProg\Debug\MenuProg.tlog\CL.command.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\MenuProg\MenuProg\Debug\MenuProg.tlog\CL.read.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\MenuProg\MenuProg\Debug\MenuProg.tlog\CL.write.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\MenuProg\MenuProg\Debug\MenuProg.tlog\link.command.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\MenuProg\MenuProg\Debug\MenuProg.tlog\link.read.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\MenuProg\MenuProg\Debug\MenuProg.tlog\link.write.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\MenuProg\MenuProg\Debug\MenuProg.tlog\MenuProg.lastbuildstate already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject.sln already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\.vs\ATLProject\v15\.suo already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\.vs\ATLProject\v15\Browse.VC.db already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\.vs\ATLProject\v15\ipch\ATLPROJECT-47f76a64\ATLPROJECT-50095044.ipch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\ATLProject.cpp already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\ATLProject.idl already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\ATLProject.rc already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\ATLProject.rgs already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\ATLProject.vcxproj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\ATLProject.vcxproj.filters already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\ATLProjectps.def already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\ATLProjectPS.vcxproj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\ATLProjectPS.vcxproj.filters already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\ATLProject_i.c already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\ATLProject_i.h already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\ReadMe.txt already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Resource.h already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\stdafx.cpp already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\stdafx.h already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\targetver.h already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.log already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.obj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.pch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.res already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject_i.obj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\stdafx.obj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\vc141.idb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\vc141.pdb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\ATLProject.lastbuildstate already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\CL.command.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\CL.read.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\CL.write.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\link.command.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\link.read.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\link.write.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\midl.command.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\midl.read.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\midl.write.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\rc.command.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\rc.read.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\rc.write.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\ATLProject\Debug\ATLProject.tlog\unsuccessfulbuild already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\Debug\ATLProject.exe already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\Debug\ATLProject.ilk already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\ATLProject\Debug\ATLProject.pdb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\Console.sln already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\.vs\Console\v15\.suo already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\.vs\Console\v15\Browse.VC.db already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\.vs\Console\v15\ipch\AutoPCH\CONSOLE-4f3105b5\MAIN-d71c043e\MAIN.ipch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\.vs\Console\v15\ipch\AutoPCH\CONSOLE-4f3105b5\SECOND-672d115\SECOND.ipch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\.vs\Console\v15\ipch\AutoPCH\CONSOLE-4f3105b5\SOURCE-fd4842ca\SOURCE.ipch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\Console\Console.vcxproj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\Console\Console.vcxproj.filters already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\Console\Main.cpp already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\Console\Main.h already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\Console\Second.cpp already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\Console\Source.cpp already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.Build.CppClean.log already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.exe already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.log already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Second.obj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\Console\Debug\vc141.idb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\Console\Debug\vc141.pdb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.tlog\CL.command.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.tlog\CL.read.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.tlog\CL.write.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.tlog\Console.lastbuildstate already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.tlog\link.command.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.tlog\link.read.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.tlog\link.write.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\Console\Debug\Console.tlog\unsuccessfulbuild already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Console\Debug\Console.exe already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Docs\1_Introduction_to_C.pdf already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Docs\calcsum.c.txt already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Docs\IntroC++.pdf already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Docs\Practical Using VC++.pdf already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Page5\Page5.sln already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Page5\.vs\Page5\v15\.suo already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Page5\.vs\Page5\v15\Browse.VC.db already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Page5\.vs\Page5\v15\ipch\AutoPCH\PAGE5-a129fab2\SOURCE-cabf0c88\SOURCE.ipch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Page5\Debug\Page5.exe already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Page5\Debug\Page5.ilk already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Page5\Debug\Page5.pdb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Page5\Page5\Page5.vcxproj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Page5\Page5\Page5.vcxproj.filters already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Page5\Page5\Source.cpp already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\Page5.Build.CppClean.log already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\Page5.log already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\Source.obj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\vc141.idb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\vc141.pdb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\Page5.tlog\CL.command.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\Page5.tlog\CL.read.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\Page5.tlog\CL.write.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\Page5.tlog\link.command.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\Page5.tlog\link.read.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\Page5.tlog\link.write.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Page5\Page5\Debug\Page5.tlog\Page5.lastbuildstate already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\Practical.sln already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\.vs\slnx.sqlite already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\.vs\VSWorkspaceState.json already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\.vs\Practical\v15\.suo already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\.vs\Practical\v15\Browse.VC.db already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\.vs\Practical\v15\ipch\AutoPCH\PRACTICAL-37f062d5\CALCSUM-bf26c1c1\CALCSUM.ipch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\.vs\Practical\v15\ipch\AutoPCH\PRACTICAL-37f062d5\CONVERT-2d663f5a\CONVERT.ipch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\.vs\Practical\v15\ipch\AutoPCH\PRACTICAL-37f062d5\CONVERT-76fdbe3f\CONVERT.ipch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\.vs\Practical\v15\ipch\AutoPCH\PRACTICAL-37f062d5\CONVERTHEADER-5fbf2668\CONVERTHEADER.ipch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\.vs\Practical\v15\ipch\AutoPCH\PRACTICAL-37f062d5\HELLOWORLD-4e3b3855\HELLOWORLD.ipch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\Debug\Practical.exe already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\Debug\Practical.ilk already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\Debug\Practical.pdb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\Practical\calcsum.cpp already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\Practical\convert.cpp already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\Practical\convert.h already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\Practical\HelloWorld.cpp already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\Practical\Practical.vcxproj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\Practical\Practical.vcxproj.filters already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\Practical\Debug\convert.obj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\Practical\Debug\HelloWorld.obj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\Practical\Debug\Practical.log already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\Practical\Debug\vc141.idb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\Practical\Debug\vc141.pdb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\Practical\Debug\Practical.tlog\CL.command.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\Practical\Debug\Practical.tlog\CL.read.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\Practical\Debug\Practical.tlog\CL.write.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\Practical\Debug\Practical.tlog\link.command.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\Practical\Debug\Practical.tlog\link.read.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\Practical\Debug\Practical.tlog\link.write.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week1\Practical\Practical\Debug\Practical.tlog\Practical.lastbuildstate already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\HEAP OR STACK.doc already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\HolidayPtrs.docx already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\passbyvalue.cpp already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Pointers.pdf already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Prac_Pointers.pdf already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Practical.sln already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\.vs\Practical\v15\.suo already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\.vs\Practical\v15\Browse.VC.db already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\.vs\Practical\v15\ipch\AutoPCH\PRACTICAL-f9e56396\PASSBYADDRESS-72fa2ef2\PASSBYADDRESS.ipch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\.vs\Practical\v15\ipch\AutoPCH\PRACTICAL-f9e56396\PASSBYREFERENCE-15975bdb\PASSBYREFERENCE.ipch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\.vs\Practical\v15\ipch\AutoPCH\PRACTICAL-f9e56396\PASSBYVALUE-6f855e2b\PASSBYVALUE.ipch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\.vs\Practical\v15\ipch\AutoPCH\PRACTICAL-f9e56396\POINTER1-c1486fac\POINTER1.ipch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\.vs\Practical\v15\ipch\AutoPCH\PRACTICAL-f9e56396\POINTER2-c15a882d\POINTER2.ipch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\.vs\Practical\v15\ipch\AutoPCH\_SFI_79B49A19-C3E5-4F56-A4FA-C1AE30E10FEE_-cdd4aef\PASSBYADDRESS-4d51d63e\PASSBYADDRESS.ipch already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Debug\Practical.exe already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Debug\Practical.ilk already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Debug\Practical.pdb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Practical\passbyaddress.cpp already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Practical\passbyreference.cpp already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Practical\pointer1.cpp already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Practical\pointer2.cpp already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Practical\Practical.vcxproj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Practical\Practical.vcxproj.filters already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\passbyaddress.obj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\passbyaddress.obj.enc already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\passbyreference.obj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\passbyvalue.obj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\pointer1.obj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\pointer2.obj already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\Practical.log already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\vc141.idb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\vc141.pdb already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\Practical.tlog\CL.command.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\Practical.tlog\CL.read.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\Practical.tlog\CL.write.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\Practical.tlog\link.command.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\Practical.tlog\link.read.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\Practical.tlog\link.write.1.tlog already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\C++\Week2\Practical\Practical\Debug\Practical.tlog\Practical.lastbuildstate already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\DigitalSecurity\Lab Completion Sheet 2018.doc already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\DigitalSecurity\Lab01\Security_Plus_Lab_01.pdf already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\DigitalSecurity\Lab01\Images\1.png already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\DigitalSecurity\Lab01\Images\2.png already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\DigitalSecurity\Lab01\Images\3.png already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\DigitalSecurity\Lab01\Images\4.png already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\DigitalSecurity\Lab01\Images\5.png already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\DigitalSecurity\Lab01\Images\6.png already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\DigitalSecurity\Lab01\Images\7.png already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\DigitalSecurity\Lab01\Images\8.png already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\DigitalSecurity\Lab03\Images\1.png already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\DigitalSecurity\Lab03\Images\2.png already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\DigitalSecurity\Lab03\Images\3.png already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\DigitalSecurity\Lab03\Images\4.png already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\ResearchMethodologies\Energy_consumption_of_hash_fun.PDF already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\ResearchMethodologies\Journal.docx already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\ResearchMethodologies\URLLink.acsm already exists at destination with matching timestamp, ignoring.
+File: Z:\CollegeUSBBackup\\BscCompSci\Year2\ResearchMethodologies\Wk1_SkillsAudit_Exercise.doc already exists at destination with matching timestamp, ignoring.
+Folder G:\DBMocker is in the ignore list, returning.
+Folder G:\PaleMoon is in the ignore list, returning.
+System.UnauthorizedAccessException: Access to the path 'G:\System Volume Information' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at USBBackup.USBListener.DirectoryCopy(String sourceDirName, String destDirName, Boolean copySubDirs, HashSet`1 ignoredFolders, HashSet`1 ignoredExtensions) in D:\Projects\VisualStudio\USBBackup\USBBackup\USBListener.cs:line 107
+System.UnauthorizedAccessException: Access to the path 'G:\System Volume Information' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetFiles()
+   at USBBackup.USBListener.DirectoryCopy(String sourceDirName, String destDirName, Boolean copySubDirs, HashSet`1 ignoredFolders, HashSet`1 ignoredExtensions) in D:\Projects\VisualStudio\USBBackup\USBBackup\USBListener.cs:line 122
+SettingsFile trying to save file as: D:\Projects\VisualStudio\USBBackup\USBBackup\bin\Debug\meta.txt
